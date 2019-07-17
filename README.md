@@ -47,13 +47,22 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2017-AAAI - Robust Loss Functions under Label Noise for Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1712.09482)
 
+[-] 2018-CVPR - CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/kuanghuei/clean-net)
+
 [-] 2018-ISBI - training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
 [-] 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
-[-] 2018- NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [Code](https://github.com/bhanML/Co-teaching)
+[-] 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Code]](https://github.com/bhanML/Co-teaching)
 
-[-] 2018- NIPS - Masking: A New Perspective of Noisy Supervision. [[Paper]](https://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision.pdf) [Code](https://github.com/bhanML/Masking)
+[-] 2018-NIPS - Masking: A New Perspective of Noisy Supervision. [[Paper]](https://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision.pdf) [[Code]](https://github.com/bhanML/Masking)
+
+[-] 2018-NIPS - Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise. [[Paper]](https://papers.nips.cc/paper/8246-using-trusted-data-to-train-deep-networks-on-labels-corrupted-by-severe-noise) [[Code]](https://github.com/mmazeika/glc)
+
+[-] 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
+
+
+
 
 
 
