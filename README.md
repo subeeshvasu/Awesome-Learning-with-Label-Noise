@@ -4,6 +4,8 @@ A list of resources for Learning with Noisy Labels
 
 **Papers**
 
+[-] 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
+
 [-] 2013 - Learning with Multiple Labels. [[Paper]](http://www.merl.com/publications/docs/TR2001-30.pdf)
 
 [-] 2013-NIPS - Learning with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)
@@ -29,6 +31,7 @@ A list of resources for Learning with Noisy Labels
 [-] 2017-AAAI - Robust Loss Functions under Label Noise for Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1712.09482)
 
 
+[-] 201- - . [[Paper]]()
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
