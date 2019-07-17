@@ -20,7 +20,18 @@ A list of resources for Learning with Noisy Labels
 
 [-] 2015-ICLR - TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS. [[Paper]](https://arxiv.org/abs/1406.2080)
 
+[-] 2015-NIPS - Learning with Symmetric Label Noise: The Importance of
+Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)
+
+[-] 2015 - Making Risk Minimization Tolerant to Label Noise. [[Paper]](https://arxiv.org/abs/1403.3610)
+
+[-] 2016-ICLR - Auxiliary Image Regularization for Deep
+CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)
+
 [-] 2017-CVPR - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)
+
+[-] 2017-CVPR - Making Deep Neural Networks Robust to Label Noise:
+a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [Code](https://github.com/giorgiop/loss-correction)
 
 [-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
 
