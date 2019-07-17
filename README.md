@@ -118,6 +118,8 @@ A list of resources for Learning with Noisy Labels
 
 [-] 2019-ICASSP - Learning Sound Event Classifiers from Web Audio with Noisy Labels. [[Paper]](https://arxiv.org/abs/1901.01189) [[Code]](https://github.com/edufonseca/icassp19)
 
+[-] 2019-TGRS - Hyperspectral Image Classification in the Presence of Noisy Labels. [[Paper]](https://arxiv.org/abs/1809.04212) [[Code]](https://github.com/junjun-jiang/RLPA)
+
 
 [-] 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
