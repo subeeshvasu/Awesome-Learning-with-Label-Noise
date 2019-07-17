@@ -53,8 +53,15 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2018-CVPR - Joint Optimization Framework for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tanaka_Joint_Optimization_Framework_CVPR_2018_paper.html) [[Code]](https://github.com/DaikiTanaka-UT/JointOptimization)
 
+[-] 2018-CVPR - Iterative Learning with Open-set Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Iterative_Learning_With_CVPR_2018_paper.html) [[Code]](https://github.com/YisenWang/Iterative_learning)
 
-[-] 2018-ISBI - training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
+
+
+
+[-] 2018-ISBI - Training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
+
+[-] 2018-WACV - Iterative Cross Learning on Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/8354192)
+
 
 [-] 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
@@ -63,6 +70,11 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 [-] 2018-NIPS - Masking: A New Perspective of Noisy Supervision. [[Paper]](https://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision.pdf) [[Code]](https://github.com/bhanML/Masking)
 
 [-] 2018-NIPS - Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise. [[Paper]](https://papers.nips.cc/paper/8246-using-trusted-data-to-train-deep-networks-on-labels-corrupted-by-severe-noise) [[Code]](https://github.com/mmazeika/glc)
+
+[-] 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)
+
+[-] 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
+
 
 [-] 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
 
@@ -74,6 +86,11 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 [-] 2018 - Improving Multi-Person Pose Estimation using Label Correction. [[Paper]](https://arxiv.org/pdf/1811.03331.pdf)
 
 [-] 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
+
+
+[-] 2019-CVPR - Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.html) [[Code]](https://github.com/nv-tlabs/STEAL)[[Project-page]](https://nv-tlabs.github.io/STEAL/)
+
+[-] 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [[Paper]](https://arxiv.org/abs/1904.11238) [[Code]](https://github.com/PaulAlbert31/LabelNoiseCorrection)
 
 
 
