@@ -16,7 +16,7 @@ A list of resources for Learning with Noisy Labels
 
 [-] 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf)
 
-[-] 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [[Paper]](https://arxiv.org/abs/1412.6596)
+[-] 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [[Paper]](https://arxiv.org/abs/1412.6596)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
 
 [-] 2015-ICLR - TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS. [[Paper]](https://arxiv.org/abs/1406.2080)
 
@@ -71,7 +71,8 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2018-NIPS - Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise. [[Paper]](https://papers.nips.cc/paper/8246-using-trusted-data-to-train-deep-networks-on-labels-corrupted-by-severe-noise) [[Code]](https://github.com/mmazeika/glc)
 
-[-] 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)
+[-] 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
+
 
 [-] 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
