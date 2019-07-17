@@ -31,7 +31,7 @@ CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)
 [-] 2017-CVPR - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)
 
 [-] 2017-CVPR - Making Deep Neural Networks Robust to Label Noise:
-a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [Code](https://github.com/giorgiop/loss-correction)
+a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
 [-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
 
