@@ -93,12 +93,28 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2019-CVPR - Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Tanno_Learning_From_Noisy_Labels_by_Regularized_Estimation_of_Annotator_Confusion_CVPR_2019_paper.html)
 
+[-] 2019-CVPR - Probabilistic End-to-end Noise Correction for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_Probabilistic_End-To-End_Noise_Correction_for_Learning_With_Noisy_Labels_CVPR_2019_paper.html)
+
+[-] 2019-CVPR - Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)[[Code]](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection)
+
+
+[-] 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html)[[Code]](https://github.com/NVIDIA/semantic-segmentation)
+
 
 [-] 2019-CVPR - Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.html) [[Code]](https://github.com/nv-tlabs/STEAL)[[Project-page]](https://nv-tlabs.github.io/STEAL/)
 
 [-] 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [[Paper]](https://arxiv.org/abs/1904.11238) [[Code]](https://github.com/PaulAlbert31/LabelNoiseCorrection)
 
 [-] 2019-ICML - Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels. [[Paper]](http://proceedings.mlr.press/v97/chen19g.html) [[Code]](https://github.com/chenpf1025/noisy_label_understanding_utilizing)
+
+[-] 2019-ICML - How does Disagreement Help Generalization against Label Corruption?. [[Paper]](https://arxiv.org/abs/1901.04215) [[Code]](https://github.com/bhanML/coteaching_plus)
+
+
+
+
+
+[-] 2019-AAAI - Safeguarded Dynamic Label Regression for Generalized Noisy Supervision. [[Paper]](https://sunarker.github.io/temp/AAAI2019_Dynamic_Label_Regression_for_Noisy_Supervision.pdf) [[Code]](https://github.com/Sunarker/Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision)[[Slides]](https://sunarker.github.io/temp/AAAI2019_Presentation.pdf)[[Poster]](https://sunarker.github.io/temp/AAAI2019_Poster.pdf)
+
 
 [-] 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
@@ -107,10 +123,6 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 [-] 2019 - Photometric Transformer Networks and Label Adjustment for Breast Density Prediction. [[Paper]](https://arxiv.org/abs/1905.02906)
 
 [-] 2019 - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
-
-
-
-[-] 201- - . [[Paper]]()
 
 
 
