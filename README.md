@@ -143,6 +143,7 @@ A list of resources for Learning with Noisy Labels
 - [Keras-noisy-lables-finetune](https://github.com/nagash91/keras-noisy-lables-finetune) 
 - [Light CNN for Deep Face Recognition, in Tensorflow](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 - [Rankpruning](https://github.com/cgnorthcutt/rankpruning)
+- [Cleanlab:machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab)
 
 **Others**
 - [Deep Learning Package-Chainer Tutorial](https://docs.chainer.org/en/stable/tutorial/index.html)
