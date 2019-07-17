@@ -61,8 +61,9 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
 
+[-] 2018 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/pdf/1811.00700.pdf)
 
-
+[-] 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
 
 
 
