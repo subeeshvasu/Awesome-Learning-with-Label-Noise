@@ -49,6 +49,9 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2018-ISBI - training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
+[-] 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
+
+
 [-] 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 [-] 201- - . [[Paper]]()
