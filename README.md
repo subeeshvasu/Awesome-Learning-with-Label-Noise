@@ -3,7 +3,13 @@ A list of resources for Learning with Noisy Labels
 
 
 **Papers**
-- [2013-Learning with Multiple Labels](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
+
+[1] 2013 - Freeman, Learning with Multiple Labels. [[Paper]](http://www.merl.com/publications/docs/TR2001-30.pdf)
+
+
+
+
+- 
 - [2013-NIPS-Learning with Noisy Labels](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)
 - [2014-A Comprehensive Introduction to Label Noise](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2014-10.pdf)
 **Introduction**
