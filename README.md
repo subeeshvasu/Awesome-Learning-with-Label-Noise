@@ -16,29 +16,24 @@ A list of resources for Learning with Noisy Labels
 
 [-] 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf)
 
-[-] 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [[Paper]](https://arxiv.org/abs/1412.6596)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
+[-] 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [[Paper]](https://arxiv.org/abs/1412.6596)[[Loss-Code-Unofficial-1]](https://github.com/edufonseca/icassp19/blob/master/losses.py)[[Loss-Code-Unofficial-2]](https://github.com/giorgiop/loss-correction/blob/master/loss.py)
 
-[-] 2015-ICLR - TRAINING CONVOLUTIONAL NETWORKS WITH NOISY LABELS. [[Paper]](https://arxiv.org/abs/1406.2080)
+[-] 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
 
-[-] 2015-NIPS - Learning with Symmetric Label Noise: The Importance of
-Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)
+[-] 2015-NIPS - Learning with Symmetric Label Noise: The Importance of Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)[[Loss-Code-Unofficial]](https://github.com/giorgiop/loss-correction/blob/master/loss.py)
 
 [-] 2015 - Making Risk Minimization Tolerant to Label Noise. [[Paper]](https://arxiv.org/abs/1403.3610)
 
-[-] 2016-ICLR - Auxiliary Image Regularization for Deep
-CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)
+[-] 2016-ICLR - Auxiliary Image Regularization for Deep CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)[[Code]](https://github.com/azadis/AIR)
 
 [-] 2016-ICASSP - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)[[Code-Unofficial]](https://github.com/Ryo-Ito/Noisy-Labels-Neural-Network)
 
-[-] 2017-CVPR - Making Deep Neural Networks Robust to Label Noise:
-a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
+[-] 2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
 [-] 2017-CVPR - Learning From Noisy Large-Scale DatasetsWith Minimal Supervision. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Veit_Learning_From_Noisy_CVPR_2017_paper.html)
 
-[-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
+[-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)[[Code]](https://github.com/raingo/yfcc100m-entity)
 
-
----
 [-] 2017-NIPS - Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf)
 
 
@@ -55,8 +50,6 @@ a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_
 [-] 2018-CVPR - Joint Optimization Framework for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tanaka_Joint_Optimization_Framework_CVPR_2018_paper.html) [[Code]](https://github.com/DaikiTanaka-UT/JointOptimization)
 
 [-] 2018-CVPR - Iterative Learning with Open-set Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Iterative_Learning_With_CVPR_2018_paper.html) [[Code]](https://github.com/YisenWang/Iterative_learning)
-
-
 
 
 [-] 2018-ISBI - Training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
@@ -81,6 +74,8 @@ a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_
 [-] 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
 
 [-] 2018-ICML - Learning to Reweight Examples for Robust Deep Learning. [[Paper]](https://arxiv.org/abs/1803.09050) [[Code]](https://github.com/uber-research/learning-to-reweight-examples) [[Code-Unofficial-PyTorch]](https://github.com/danieltan07/learning-to-reweight-examples)
+
+[-] 2018-ICML - Dimensionality-Driven Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
 
 
 [-] 2018 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/pdf/1811.00700.pdf)
@@ -110,9 +105,6 @@ a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_
 [-] 2019-ICML - Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels. [[Paper]](http://proceedings.mlr.press/v97/chen19g.html) [[Code]](https://github.com/chenpf1025/noisy_label_understanding_utilizing)
 
 [-] 2019-ICML - How does Disagreement Help Generalization against Label Corruption?. [[Paper]](https://arxiv.org/abs/1901.04215) [[Code]](https://github.com/bhanML/coteaching_plus)
-
-
-
 
 
 [-] 2019-AAAI - Safeguarded Dynamic Label Regression for Generalized Noisy Supervision. [[Paper]](https://sunarker.github.io/temp/AAAI2019_Dynamic_Label_Regression_for_Noisy_Supervision.pdf) [[Code]](https://github.com/Sunarker/Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision)[[Slides]](https://sunarker.github.io/temp/AAAI2019_Presentation.pdf)[[Poster]](https://sunarker.github.io/temp/AAAI2019_Poster.pdf)
