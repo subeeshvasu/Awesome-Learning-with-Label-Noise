@@ -87,14 +87,28 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
 
+[-] 2019-CVPR - Learning a Deep ConvNet for Multi-label Classification with Partial Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Durand_Learning_a_Deep_ConvNet_for_Multi-Label_Classification_With_Partial_Labels_CVPR_2019_paper.html)
+
+[-] 2019-CVPR - Label-Noise Robust Generative Adversarial Networks. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kaneko_Label-Noise_Robust_Generative_Adversarial_Networks_CVPR_2019_paper.html) [[Code]](https://github.com/takuhirok/rGAN)
+
+[-] 2019-CVPR - Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Tanno_Learning_From_Noisy_Labels_by_Regularized_Estimation_of_Annotator_Confusion_CVPR_2019_paper.html)
+
 
 [-] 2019-CVPR - Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.html) [[Code]](https://github.com/nv-tlabs/STEAL)[[Project-page]](https://nv-tlabs.github.io/STEAL/)
 
 [-] 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [[Paper]](https://arxiv.org/abs/1904.11238) [[Code]](https://github.com/PaulAlbert31/LabelNoiseCorrection)
 
+[-] 2019-ICML - Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels. [[Paper]](http://proceedings.mlr.press/v97/chen19g.html) [[Code]](https://github.com/chenpf1025/noisy_label_understanding_utilizing)
 
+[-] 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
 [-] 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
+
+[-] 2019 - Photometric Transformer Networks and Label Adjustment for Breast Density Prediction. [[Paper]](https://arxiv.org/abs/1905.02906)
+
+[-] 2019 - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
+
+
 
 [-] 201- - . [[Paper]]()
 
