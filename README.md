@@ -149,6 +149,7 @@ A list of resources for Learning with Noisy Labels
 - [Deep Learning Package-Chainer Tutorial](https://docs.chainer.org/en/stable/tutorial/index.html)
 - [Paper-Semi-Supervised Learning Literature Survey](http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf)
 - [Cross Validated-Classification with Noisy Labels](https://stats.stackexchange.com/questions/218656/classification-with-noisy-labels)
+- [A little talk on label noise](http://knowdive.disi.unitn.it/2018/09/a-little-talk-on-label-noise/)
 
 
 ## Acknowledgements
