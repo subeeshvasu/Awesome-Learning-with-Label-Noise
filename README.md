@@ -22,7 +22,7 @@ A list of resources for Learning with Noisy Labels
 
 [-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
 
-[-] 2017-ICLR - Training deep neural-networks based on unreliable labels-V1. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
+[-] 2017-ICLR - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
 
 [-] 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)
 
