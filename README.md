@@ -51,10 +51,17 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
+[-] 2018- NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [Code](https://github.com/bhanML/Co-teaching)
+
+[-] 2018- NIPS - Masking: A New Perspective of Noisy Supervision. [[Paper]](https://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision.pdf) [Code](https://github.com/bhanML/Masking)
+
+
 
 [-] 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 [-] 201- - . [[Paper]]()
+
+
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
