@@ -28,6 +28,8 @@ Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)
 [-] 2016-ICLR - Auxiliary Image Regularization for Deep
 CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)
 
+[-] 2016-ICASSP - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)[[Code-Unofficial]](https://github.com/Ryo-Ito/Noisy-Labels-Neural-Network)
+
 [-] 2017-CVPR - Making Deep Neural Networks Robust to Label Noise:
 a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
@@ -35,13 +37,12 @@ a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_
 
 [-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
 
-[-] 2017-NIPS - Toward Robustness against Label Noise in
-Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf)
+
+---
+[-] 2017-NIPS - Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf)
 
 
-[-] 2017-ICLR - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
-
-[-] 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)
+[-] 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)[[Code]](https://github.com/udibr/noisy_labels)
 
 [-] 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)
 
