@@ -47,7 +47,12 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2017-AAAI - Robust Loss Functions under Label Noise for Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1712.09482)
 
+[-] 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
+
 [-] 2018-CVPR - CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/kuanghuei/clean-net)
+
+[-] 2018-CVPR - Joint Optimization Framework for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tanaka_Joint_Optimization_Framework_CVPR_2018_paper.html) [[Code]](https://github.com/DaikiTanaka-UT/JointOptimization)
+
 
 [-] 2018-ISBI - training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
