@@ -6,7 +6,7 @@ A list of resources for Learning with Noisy Labels
 
 [-] 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
 
-[-] 2013 - Learning with Multiple Labels. [[Paper]](http://www.merl.com/publications/docs/TR2001-30.pdf)
+[-] 2013-NIPS - Learning with Multiple Labels. [[Paper]](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
 
 [-] 2013-NIPS - Learning with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)
 
