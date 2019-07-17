@@ -28,19 +28,28 @@ Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)
 [-] 2016-ICLR - Auxiliary Image Regularization for Deep
 CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)
 
-[-] 2017-CVPR - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)
-
 [-] 2017-CVPR - Making Deep Neural Networks Robust to Label Noise:
 a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
+[-] 2017-CVPR - Learning From Noisy Large-Scale DatasetsWith Minimal Supervision. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Veit_Learning_From_Noisy_CVPR_2017_paper.html)
+
 [-] 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)
+
+[-] 2017-NIPS - Toward Robustness against Label Noise in
+Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf)
+
 
 [-] 2017-ICLR - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)
 
 [-] 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)
 
+[-] 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)
+
 [-] 2017-AAAI - Robust Loss Functions under Label Noise for Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1712.09482)
 
+[-] 2018-ISBI - training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
+
+[-] 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 [-] 201- - . [[Paper]]()
 
