@@ -93,7 +93,7 @@ Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/p
 
 [-] 2019-CVPR - Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Tanno_Learning_From_Noisy_Labels_by_Regularized_Estimation_of_Annotator_Confusion_CVPR_2019_paper.html)
 
-[-] 2019-CVPR - Probabilistic End-to-end Noise Correction for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_Probabilistic_End-To-End_Noise_Correction_for_Learning_With_Noisy_Labels_CVPR_2019_paper.html)
+[-] 2019-CVPR - Probabilistic End-to-end Noise Correction for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_Probabilistic_End-To-End_Noise_Correction_for_Learning_With_Noisy_Labels_CVPR_2019_paper.html)[[Code]](https://github.com/yikun2019/PENCIL)
 
 [-] 2019-CVPR - Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)[[Code]](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection)
 
