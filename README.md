@@ -121,6 +121,9 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-TGRS - Hyperspectral Image Classification in the Presence of Noisy Labels. [[Paper]](https://arxiv.org/abs/1809.04212) [[Code]](https://github.com/junjun-jiang/RLPA)
 
+[-] 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.07387)
+
+[-] 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)
 
 [-] 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
