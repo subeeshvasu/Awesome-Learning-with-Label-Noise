@@ -125,6 +125,8 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)
 
+[-] 2019-ICCV - Deep Self-Learning From Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.02160)
+
 [-] 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
 [-] 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
