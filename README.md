@@ -24,6 +24,8 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2015 - Making Risk Minimization Tolerant to Label Noise. [[Paper]](https://arxiv.org/abs/1403.3610)
 
+[-] 2015 - Learning Discriminative Reconstructions for Unsupervised Outlier Removal. [[Paper]](https://www.ganghua.org/publication/ICCV15b.pdf)[[Code]](https://github.com/ClearMoonlight/SoCG_2019/tree/master/DRAE)
+
 [-] 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [[Paper]](https://arxiv.org/abs/1512.06974)[[Code]](https://github.com/imisra/latent-noise-icnm)
 
 [-] 2016-ICLR - Auxiliary Image Regularization for Deep CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)[[Code]](https://github.com/azadis/AIR)
