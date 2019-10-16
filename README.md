@@ -106,11 +106,11 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-CVPR - Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhong_Graph_Convolutional_Label_Noise_Cleaner_Train_a_Plug-And-Play_Action_Classifier_CVPR_2019_paper.html)[[Code]](https://github.com/jx-zhong-for-academic-purpose/GCN-Anomaly-Detection)
 
-
 [-] 2019-CVPR - Improving Semantic Segmentation via Video Propagation and Label Relaxation. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhu_Improving_Semantic_Segmentation_via_Video_Propagation_and_Label_Relaxation_CVPR_2019_paper.html)[[Code]](https://github.com/NVIDIA/semantic-segmentation)
 
-
 [-] 2019-CVPR - Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Acuna_Devil_Is_in_the_Edges_Learning_Semantic_Boundaries_From_Noisy_CVPR_2019_paper.html) [[Code]](https://github.com/nv-tlabs/STEAL)[[Project-page]](https://nv-tlabs.github.io/STEAL/)
+
+[-] 2019-CVPR - Noise-Tolerant Paradigm for Training Face Recognition CNNs. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) [[Code]](https://github.com/huangyangyu/NoiseFace)
 
 [-] 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [[Paper]](https://arxiv.org/abs/1904.11238) [[Code]](https://github.com/PaulAlbert31/LabelNoiseCorrection)
 
