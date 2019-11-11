@@ -132,7 +132,11 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-ICCV - Deep Self-Learning From Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.02160)
 
-[-] 2019-ICCV - Co-Mining: Deep Face Recognition With Noisy Labels.
+[-] 2019-ICCV - Co-Mining: Deep Face Recognition With Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Wang_Co-Mining_Deep_Face_Recognition_With_Noisy_Labels_ICCV_2019_paper.html)
+
+[-] 2019-ICCV - O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.html)
+
+[-] 2019-ICCV - Deep Self-Learning From Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
 
 [-] 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
