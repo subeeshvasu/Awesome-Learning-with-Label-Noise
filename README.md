@@ -128,7 +128,7 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.07387)
 
-[-] 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)
+[-] 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)[[Code]](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)
 
 [-] 2019-ICCV - Deep Self-Learning From Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.02160)
 
