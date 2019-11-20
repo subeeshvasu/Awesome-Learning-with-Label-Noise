@@ -120,6 +120,8 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-ICML - Using Pre-Training Can Improve Model Robustness and Uncertainty [[Paper]](https://arxiv.org/abs/1901.09960) [[Code]](https://github.com/hendrycks/pre-training)
 
+[-] 2019-ICML - On Symmetric Losses for Learning from Corrupted Labels [[Paper]](https://arxiv.org/abs/1901.09314) [[Poster]](https://nolfwin.github.io/assets/poster/ICML2019_Symloss_poster.pdf) [[Slides]](https://nolfwin.github.io/assets/slides/ICML2019_Symloss_slides.pdf) [[Code]](https://github.com/nolfwin/symloss-ber-auc)
+
 [-] 2019-AAAI - Safeguarded Dynamic Label Regression for Generalized Noisy Supervision. [[Paper]](https://sunarker.github.io/temp/AAAI2019_Dynamic_Label_Regression_for_Noisy_Supervision.pdf) [[Code]](https://github.com/Sunarker/Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision)[[Slides]](https://sunarker.github.io/temp/AAAI2019_Presentation.pdf)[[Poster]](https://sunarker.github.io/temp/AAAI2019_Poster.pdf)
 
 [-] 2019-ICASSP - Learning Sound Event Classifiers from Web Audio with Noisy Labels. [[Paper]](https://arxiv.org/abs/1901.01189) [[Code]](https://github.com/edufonseca/icassp19)
