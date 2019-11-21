@@ -152,6 +152,7 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
+[-] 2019 - Confident Learning: Estimating Uncertainty in Dataset Labels. [[Paper]](https://arxiv.org/abs/1911.00068) [[Code]](https://github.com/cgnorthcutt/cleanlab)
 
 
 
@@ -165,7 +166,7 @@ A curated list of resources for Learning with Noisy Labels
 - [Keras-noisy-lables-finetune](https://github.com/nagash91/keras-noisy-lables-finetune) 
 - [Light CNN for Deep Face Recognition, in Tensorflow](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 - [Rankpruning](https://github.com/cgnorthcutt/rankpruning)
-- [Cleanlab:machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab)
+- [Cleanlab: machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab)
 
 **Others**
 - [Deep Learning Package-Chainer Tutorial](https://docs.chainer.org/en/stable/tutorial/index.html)
