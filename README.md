@@ -112,6 +112,8 @@ A curated list of resources for Learning with Noisy Labels
 
 [-] 2019-CVPR - Noise-Tolerant Paradigm for Training Face Recognition CNNs. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) [[Code]](https://github.com/huangyangyu/NoiseFace)
 
+[-] 2019-CVPR - A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_CVPRW_2019_paper.pdf)
+
 [-] 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [[Paper]](https://arxiv.org/abs/1904.11238) [[Code]](https://github.com/PaulAlbert31/LabelNoiseCorrection)
 
 [-] 2019-ICML - Understanding and Utilizing Deep Neural Networks Trained with Noisy Labels. [[Paper]](http://proceedings.mlr.press/v97/chen19g.html) [[Code]](https://github.com/chenpf1025/noisy_label_understanding_utilizing)
