@@ -14,11 +14,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2014-Survey - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://pdfs.semanticscholar.org/2c8f/24f859bbbc4193d4d83645ef467bcf25adc2.pdf)
 
++ 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
+
 + 2015-CVPR - Learning from Massive Noisy Labeled Data for Image Classification. [[Paper]](http://www.ee.cuhk.edu.hk/~xgwang/papers/xiaoXYHWcvpr15.pdf)[[Code]](https://github.com/Cysu/noisy_label)
 
 + 2015-CVPR - Training Deep Neural Networks on Noisy Labels with Bootstrapping. [[Paper]](https://arxiv.org/abs/1412.6596)[[Loss-Code-Unofficial-1]](https://github.com/edufonseca/icassp19/blob/master/losses.py)[[Loss-Code-Unofficial-2]](https://github.com/giorgiop/loss-correction/blob/master/loss.py)[[Code-Keras]](https://github.com/dr-darryl-wright/Noisy-Labels-with-Bootstrapping)
-
-+ 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
 
 + 2015-NIPS - Learning with Symmetric Label Noise: The Importance of Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)[[Loss-Code-Unofficial]](https://github.com/giorgiop/loss-correction/blob/master/loss.py)
 
@@ -26,23 +26,23 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2015 - Learning Discriminative Reconstructions for Unsupervised Outlier Removal. [[Paper]](https://www.ganghua.org/publication/ICCV15b.pdf)[[Code]](https://github.com/ClearMoonlight/SoCG_2019/tree/master/DRAE)
 
-+ 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [[Paper]](https://arxiv.org/abs/1512.06974)[[Code]](https://github.com/imisra/latent-noise-icnm)
-
 + 2016-ICLR - Auxiliary Image Regularization for Deep CNNs with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.07069)[[Code]](https://github.com/azadis/AIR)
 
++ 2016-CVPR - Seeing through the Human Reporting Bias: Visual Classifiers from Noisy Human-Centric Labels. [[Paper]](https://arxiv.org/abs/1512.06974)[[Code]](https://github.com/imisra/latent-noise-icnm)
+
 + 2016-ICASSP - Training deep neural-networks based on unreliable labels. [[Paper]](http://ieeexplore.ieee.org/document/7472164/)[[Poster]](https://alanbekker.files.wordpress.com/2016/03/icassp_poster.pdf)[[Code-Unofficial]](https://github.com/Ryo-Ito/Noisy-Labels-Neural-Network)
+
++ 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)[[Code]](https://github.com/udibr/noisy_labels)
 
 + 2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
 + 2017-CVPR - Learning From Noisy Large-Scale DatasetsWith Minimal Supervision. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Veit_Learning_From_Noisy_CVPR_2017_paper.html)
 
++ 2017-ICML - Robust Probabilistic Modeling with Bayesian Data Reweighting. [[Paper]](https://arxiv.org/abs/1606.03860)[[Code]](https://github.com/yixinwang/robust-rpm-public)
+
 + 2017-ICCV - Learning From Noisy Labels With Distillation. [[Paper]](openaccess.thecvf.com/content_iccv_2017/html/Li_Learning_From_Noisy_ICCV_2017_paper.html)[[Code]](https://github.com/raingo/yfcc100m-entity)
 
 + 2017-NIPS - Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf)
-
-+ 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)[[Code]](https://github.com/udibr/noisy_labels)
-
-+ 2017-ICML - Robust Probabilistic Modeling with Bayesian Data Reweighting. [[Paper]](https://arxiv.org/abs/1606.03860)[[Code]](https://github.com/yixinwang/robust-rpm-public)
 
 + 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)[[Code-Tensorflow]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 
@@ -50,11 +50,23 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
 
++ 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
+
++ 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
+
++ 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
+
 + 2018-CVPR - CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/kuanghuei/clean-net)
 
 + 2018-CVPR - Joint Optimization Framework for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Tanaka_Joint_Optimization_Framework_CVPR_2018_paper.html) [[Code]](https://github.com/DaikiTanaka-UT/JointOptimization)[[Code-Unofficial-Pytorch]](https://github.com/YU1ut/JointOptimization)
 
 + 2018-CVPR - Iterative Learning with Open-set Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Iterative_Learning_With_CVPR_2018_paper.html) [[Code]](https://github.com/YisenWang/Iterative_learning)
+
++ 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
+
++ 2018-ICML - Learning to Reweight Examples for Robust Deep Learning. [[Paper]](https://arxiv.org/abs/1803.09050) [[Code]](https://github.com/uber-research/learning-to-reweight-examples) [[Code-Unofficial-PyTorch]](https://github.com/danieltan07/learning-to-reweight-examples)
+
++ 2018-ICML - Dimensionality-Driven Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
 
 + 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.html) [[Code]](https://github.com/guoshengcv/CurriculumNet)
 
@@ -63,8 +75,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2018-ISBI - Training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
 + 2018-WACV - Iterative Cross Learning on Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/8354192)
-
-+ 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
 + 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Code]](https://github.com/bhanML/Co-teaching)
 
@@ -76,19 +86,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
 
-+ 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
-
-+ 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
-
-+ 2018-ICML - MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels. [[Paper]](https://arxiv.org/abs/1712.05055) [[Code]](https://github.com/google/mentornet)
-
-+ 2018-ICML - Learning to Reweight Examples for Robust Deep Learning. [[Paper]](https://arxiv.org/abs/1803.09050) [[Code]](https://github.com/uber-research/learning-to-reweight-examples) [[Code-Unofficial-PyTorch]](https://github.com/danieltan07/learning-to-reweight-examples)
-
-+ 2018-ICML - Dimensionality-Driven Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
-
 + 2018 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/pdf/1811.00700.pdf)
 
 + 2018 - Improving Multi-Person Pose Estimation using Label Correction. [[Paper]](https://arxiv.org/pdf/1811.03331.pdf)
+
++ 2019-ICLR_W - SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels.[[Paper]](https://arxiv.org/pdf/1805.09622.pdf)[[Code]](https://github.com/orlitany/SOSELETO)
 
 + 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
 
@@ -139,8 +141,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2019-ICCV - O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.html)
 
 + 2019-ICCV - Deep Self-Learning From Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
-
-+ 2019-ICLR_W - SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels.[[Paper]](https://arxiv.org/pdf/1805.09622.pdf)[[Code]](https://github.com/orlitany/SOSELETO)
 
 + 2019-NIPS - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.[[Paper]](https://arxiv.org/abs/1902.07379)[[Code]](https://github.com/xjtushujun/meta-weight-net)
 
