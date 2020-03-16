@@ -58,6 +58,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-ECCV - CurriculumNet: Weakly Supervised Learning from Large-Scale Web Images. [[Paper]](http://openaccess.thecvf.com/content_ECCV_2018/html/Sheng_Guo_CurriculumNet_Learning_from_ECCV_2018_paper.html) [[Code]](https://github.com/guoshengcv/CurriculumNet)
 
++ 2018-ECCV - Deep Bilevel Learning. [[Paper]](https://arxiv.org/abs/1809.01465) [[Code]](https://github.com/sjenni/DeepBilevel)
+
 + 2018-ISBI - Training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
 + 2018-WACV - Iterative Cross Learning on Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/8354192)
