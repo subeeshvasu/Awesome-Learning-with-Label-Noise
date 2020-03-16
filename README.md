@@ -74,8 +74,6 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
 
-+ 2018-NIPS - Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise. [[Paper]](https://arxiv.org/abs/1802.05300) [[Code]](https://github.com/mmazeika/glc)
-
 + 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
 + 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
