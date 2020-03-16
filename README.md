@@ -140,6 +140,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ICCV - Deep Self-Learning From Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
 
++ 2019-ICCV_W - Photometric Transformer Networks and Label Adjustment for Breast Density Prediction. [[Paper]](https://arxiv.org/abs/1905.02906)
+
 + 2019-NIPS - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.[[Paper]](https://arxiv.org/abs/1902.07379)[[Code]](https://github.com/xjtushujun/meta-weight-net)
 
 + 2019-TPAMI - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/abs/1811.00700)
@@ -147,8 +149,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
-
-+ 2019 - Photometric Transformer Networks and Label Adjustment for Breast Density Prediction. [[Paper]](https://arxiv.org/abs/1905.02906)
 
 + 2019 - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
