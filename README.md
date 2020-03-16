@@ -139,6 +139,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ICCV - Deep Self-Learning From Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
 
++ 2019-ICLRW - SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels.[[Paper]](https://arxiv.org/pdf/1805.09622.pdf)[[Code]](https://github.com/orlitany/SOSELETO)
+
 + 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
