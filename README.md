@@ -146,6 +146,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-TPAMI - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/abs/1811.00700)
 
++ 2019-ISBI - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
+
 + 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
@@ -153,8 +155,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2019 - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
 + 2019 - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [[Paper]](https://arxiv.org/abs/1903.12141)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
-
-+ 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
 + 2019 - Confident Learning: Estimating Uncertainty in Dataset Labels. [[Paper]](https://arxiv.org/abs/1911.00068) [[Code]](https://github.com/cgnorthcutt/cleanlab)
 
