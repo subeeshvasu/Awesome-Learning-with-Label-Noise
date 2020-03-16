@@ -158,6 +158,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
++ 2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
+
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
