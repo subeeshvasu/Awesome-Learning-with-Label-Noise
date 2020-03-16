@@ -152,7 +152,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019 - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
-+ 2019 - Improving MAE against CCE under Label Noise. [[Paper]](https://arxiv.org/pdf/1903.12141v3.pdf)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
++ 2019 - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [[Paper]](https://arxiv.org/pdf/1903.12141v3.pdf)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
 
 + 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
