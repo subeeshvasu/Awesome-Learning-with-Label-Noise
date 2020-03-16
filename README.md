@@ -86,8 +86,6 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
 
-+ 2018 - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/pdf/1811.00700.pdf)
-
 + 2018 - Improving Multi-Person Pose Estimation using Label Correction. [[Paper]](https://arxiv.org/pdf/1811.03331.pdf)
 
 + 2019-AAAI - Safeguarded Dynamic Label Regression for Generalized Noisy Supervision. [[Paper]](https://sunarker.github.io/temp/AAAI2019_Dynamic_Label_Regression_for_Noisy_Supervision.pdf) [[Code]](https://github.com/Sunarker/Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision)[[Slides]](https://sunarker.github.io/temp/AAAI2019_Presentation.pdf)[[Poster]](https://sunarker.github.io/temp/AAAI2019_Poster.pdf)
@@ -143,6 +141,8 @@ A curated list of resources for Learning with Noisy Labels
 + 2019-ICCV - Deep Self-Learning From Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
 
 + 2019-NIPS - Meta-Weight-Net: Learning an Explicit Mapping For Sample Weighting.[[Paper]](https://arxiv.org/abs/1902.07379)[[Code]](https://github.com/xjtushujun/meta-weight-net)
+
++ 2019-TPAMI - Learning from Large-scale Noisy Web Data with Ubiquitous Reweighting for Image Classification. [[Paper]](https://arxiv.org/abs/1811.00700)
 
 + 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
