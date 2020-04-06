@@ -160,6 +160,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019 - Derivative Manipulation for General Example Weighting. [[Paper]](https://arxiv.org/abs/1905.11233) [[Code]](https://github.com/XinshaoAmosWang/DerivativeManipulation)
 
++ 2019 - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)
+
 + 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
 + 2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
