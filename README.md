@@ -166,6 +166,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 
+
 + 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
