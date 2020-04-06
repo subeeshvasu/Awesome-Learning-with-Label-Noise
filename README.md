@@ -168,6 +168,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Label Error Correction and Generation Through Label Relationships. [[Paper]](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Cui2020.pdf) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 
++ 2020-AAAI - Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data. [[Paper]](http://people.cs.vt.edu/~ctlu/Publication/2020/AAAI-ZhangX-8567-Proceedings.pdf)
+
 + 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
