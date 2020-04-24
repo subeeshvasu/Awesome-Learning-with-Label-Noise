@@ -188,13 +188,13 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee. [[Paper]](https://arxiv.org/abs/1905.11368)
 
-+ 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
++ 2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
 + 2020 - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
 
-+ 2020 - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [[Paper]](https://arxiv.org/abs/2002.07933)
++ 2020 - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [[Paper]](https://arxiv.org/abs/2002.07933)[[Code]](https://github.com/hrayrhar/limit-label-memorization)
 
 
 
