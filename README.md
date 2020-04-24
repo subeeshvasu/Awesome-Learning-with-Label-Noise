@@ -174,6 +174,10 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Partial Multi-label Learning with Noisy Label Identification. [[Paper]](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiS.504.pdf)
 
++ 2020-WACV - A Novel Self-Supervised Re-labeling Approach for Training with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Mandal_A_Novel_Self-Supervised_Re-labeling_Approach_for_Training_with_Noisy_Labels_WACV_2020_paper.html)
+
++ 2020-WACV - Disentangling Human Dynamics for Pedestrian Locomotion Forecasting with Noisy Supervision. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Mangalam_Disentangling_Human_Dynamics_for_Pedestrian_Locomotion_Forecasting_with_Noisy_Supervision_WACV_2020_paper.html)
+
 + 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
