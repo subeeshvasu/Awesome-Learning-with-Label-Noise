@@ -182,6 +182,14 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICLR - SELF: Learning to Filter Noisy Labels with Self-Ensembling. [[Paper]](https://arxiv.org/abs/1910.01842)
 
++ 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://arxiv.org/abs/2002.07394)
+
++ 2020-ICLR - Can gradient clipping mitigate label noise?]](https://openreview.net/pdf?id=rklB76EKPr)
+
++ 2020-ICLR - Curriculum Loss: Robust Learning and Generalization against Label Corruption]](https://arxiv.org/abs/1905.10045)
+
++ 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee]](https://arxiv.org/abs/1905.11368)
+
 + 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
