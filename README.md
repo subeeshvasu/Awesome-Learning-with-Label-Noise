@@ -180,6 +180,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-WACV - Learning from Noisy Labels via Discrepant Collaborative Training. [[Paper]](http://openaccess.thecvf.com/content_WACV_2020/html/Han_Learning_from_Noisy_Labels_via_Discrepant_Collaborative_Training_WACV_2020_paper.html)
 
++ 2020-ICLR - SELF: Learning to Filter Noisy Labels with Self-Ensembling. [[Paper]](https://arxiv.org/abs/1910.01842)
+
 + 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
