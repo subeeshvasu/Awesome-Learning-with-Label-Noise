@@ -148,8 +148,6 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ISBI - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
-+ 2019 - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
-
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 + 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
@@ -184,11 +182,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://arxiv.org/abs/2002.07394)
 
-+ 2020-ICLR - Can gradient clipping mitigate label noise?]](https://openreview.net/pdf?id=rklB76EKPr)
++ 2020-ICLR - Can gradient clipping mitigate label noise?. [[Paper]](https://openreview.net/pdf?id=rklB76EKPr)
 
-+ 2020-ICLR - Curriculum Loss: Robust Learning and Generalization against Label Corruption]](https://arxiv.org/abs/1905.10045)
++ 2020-ICLR - Curriculum Loss: Robust Learning and Generalization against Label Corruption. [[Paper]](https://arxiv.org/abs/1905.10045)
 
-+ 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee]](https://arxiv.org/abs/1905.11368)
++ 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee. [[Paper]](https://arxiv.org/abs/1905.11368)
 
 + 2020 - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
