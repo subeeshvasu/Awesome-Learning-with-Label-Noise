@@ -194,7 +194,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020 - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [[Paper]](https://arxiv.org/abs/2002.07933)[[Code]](https://github.com/hrayrhar/limit-label-memorization)
 
++ 2020 - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
+
 **Survey**
+
++ 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
 
 + 2019 - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey. [[Paper]](https://arxiv.org/abs/1912.05170)
 
