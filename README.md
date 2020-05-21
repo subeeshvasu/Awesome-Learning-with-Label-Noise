@@ -190,6 +190,18 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
 
++ 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [[Paper]](https://arxiv.org/abs/1910.00701)[[Code]](https://github.com/google-research/google-research/tree/master/ieg)
+
++ 2020-CVPR - Learning From Noisy Anchors for One-Stage Object Detection. [[Paper]](https://arxiv.org/abs/1912.05086)
+
++ 2020-CVPR - Self-Training With Noisy Student Improves ImageNet Classification. [[Paper]](https://arxiv.org/abs/1911.04252)
+
++ 2020-CVPR - Noise Robust Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1911.11776)
+
++ 2020-CVPR - Noise-Aware Fully Webly Supervised Object Detection. [[Code]](https://github.com/shenyunhang/NA-fWebSOD)
+
++ 2020-CVPR - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition. 
+
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
 + 2020 - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
