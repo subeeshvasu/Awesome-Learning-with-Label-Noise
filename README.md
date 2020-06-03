@@ -164,7 +164,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-AAAI - Less Is Better: Unweighted Data Subsampling via Influence Function. [[Paper]](https://arxiv.org/abs/1912.01321) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
 
-+ 2020-AAAI - Label Error Correction and Generation Through Label Relationships. [[Paper]](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Cui2020.pdf) [[Code]](https://github.com/RyanWangZf/Influence_Subsampling)
++ 2020-AAAI - Label Error Correction and Generation Through Label Relationships. [[Paper]](https://www.ecse.rpi.edu/~cvrl/Publication/pdf/Cui2020.pdf)
 
 + 2020-AAAI - Self-Paced Robust Learning for Leveraging Clean Labels in Noisy Data. [[Paper]](http://people.cs.vt.edu/~ctlu/Publication/2020/AAAI-ZhangX-8567-Proceedings.pdf)
 
