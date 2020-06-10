@@ -106,10 +106,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017 - Learning with Auxiliary Less-Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7448430)
 
++ 2018-AAAI - Deep learning from crowds. [[Paper]](https://arxiv.org/abs/1709.01779)
+
 + 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
 + 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
-
 
 + 2018-ICLR - Dimensionality Driven Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
 
@@ -131,9 +132,13 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-ECCV - Deep Bilevel Learning. [[Paper]](https://arxiv.org/abs/1809.01465) [[Code]](https://github.com/sjenni/DeepBilevel)
 
++ 2018-ECCV - Learning with Biased Complementary Labels. [[Paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiyu_Yu_Learning_with_Biased_ECCV_2018_paper.pdf)
+
 + 2018-ISBI - Training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
 + 2018-WACV - Iterative Cross Learning on Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/8354192)
+
++ 2018-WACV - A semi-supervised two-stage approach to learning from noisy labels. [[Paper]](https://arxiv.org/abs/1802.02679)
 
 + 2018-NIPS - Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf) [[Code]](https://github.com/bhanML/Co-teaching)
 
@@ -145,7 +150,15 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-NIPS - Generalized Cross Entropy Loss for Training Deep Neural Networks with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8094-generalized-cross-entropy-loss-for-training-deep-neural-networks-with-noisy-labels.pdf)[[Loss-Code-Unofficial]](https://github.com/edufonseca/icassp19/blob/master/losses.py)
 
++ 2018-TIP - Deep learning from noisy image labels with quality embedding. [[Paper]](https://arxiv.org/abs/1711.00583)
+
++ 2018-TNLS - Progressive Stochastic Learning for Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/8281022)
+
++ 2018 - Multiclass Learning with Partially Corrupted Labels. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7929355)
+
 + 2018 - Improving Multi-Person Pose Estimation using Label Correction. [[Paper]](https://arxiv.org/pdf/1811.03331.pdf)
+
++ 2018 - Robust Determinantal Generative Classifier for Noisy Labels and Adversarial Attacks. [[Paper]](https://openreview.net/forum?id=rkle3i09K7)
 
 + 2019-AAAI - Safeguarded Dynamic Label Regression for Generalized Noisy Supervision. [[Paper]](https://sunarker.github.io/temp/AAAI2019_Dynamic_Label_Regression_for_Noisy_Supervision.pdf) [[Code]](https://github.com/Sunarker/Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision)[[Slides]](https://sunarker.github.io/temp/AAAI2019_Presentation.pdf)[[Poster]](https://sunarker.github.io/temp/AAAI2019_Poster.pdf)
 
