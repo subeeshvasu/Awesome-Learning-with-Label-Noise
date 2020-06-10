@@ -4,15 +4,23 @@ A curated list of resources for Learning with Noisy Labels
 
 **Papers**
 
++ 2008-NIPS - Whose vote should count more: Optimal integration of labels from labelers of unknown expertise. [[Paper]](https://papers.nips.cc/paper/3644-whose-vote-should-count-more-optimal-integration-of-labels-from-labelers-of-unknown-expertise)[[Code]](https://github.com/notani/python-glad)
+
++2009-ICML - Supervised learning from multiple experts: whom to trust when everyone lies a bit. [[Paper]](http://facweb.cti.depaul.edu/research/vc/seminar/Paper/37.pdf)
+
 + 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
 
 + 2013-NIPS - Learning with Multiple Labels. [[Paper]](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
 
 + 2013-NIPS - Learning with Noisy Labels. [[Paper]](https://papers.nips.cc/paper/5073-learning-with-noisy-labels.pdf)[[Code]](https://github.com/jamie2017/LearningWithNoisyLabels)
 
++ 2014-ML - Learning from multiple annotators with varying expertise. [[Paper]](https://link.springer.com/article/10.1007/s10994-013-5412-1)
+
 + 2014 - A Comprehensive Introduction to Label Noise. [[Paper]](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2014-10.pdf)
 
 + 2014-Survey - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://pdfs.semanticscholar.org/2c8f/24f859bbbc4193d4d83645ef467bcf25adc2.pdf)
+
++ 2014 - Learning from Noisy Labels with Deep Neural Networks. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.749.1795&rep=rep1&type=pdf)
 
 + 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080)[[Code]](https://github.com/tesatory/convnet-noisy)
 
