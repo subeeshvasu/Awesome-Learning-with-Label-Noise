@@ -188,19 +188,19 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICLR - Simple and Effective Regularization Methods for Training on Noisily Labeled Data with Generalization Guarantee. [[Paper]](https://arxiv.org/abs/1905.11368)
 
-+ 2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](https://arxiv.org/abs/2003.02752)
++ 2020-CVPR - Combating noisy labels by agreement: A joint training method with co-regularization. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Wei_Combating_Noisy_Labels_by_Agreement_A_Joint_Training_Method_with_CVPR_2020_paper.html)
 
-+ 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [[Paper]](https://arxiv.org/abs/1910.00701)[[Code]](https://github.com/google-research/google-research/tree/master/ieg)
++ 2020-CVPR - Distilling Effective Supervision From Severe Label Noise. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Distilling_Effective_Supervision_From_Severe_Label_Noise_CVPR_2020_paper.html)[[Code]](https://github.com/google-research/google-research/tree/master/ieg)
 
-+ 2020-CVPR - Learning From Noisy Anchors for One-Stage Object Detection. [[Paper]](https://arxiv.org/abs/1912.05086)
++ 2020-CVPR - Learning From Noisy Anchors for One-Stage Object Detection. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Li_Learning_From_Noisy_Anchors_for_One-Stage_Object_Detection_CVPR_2020_paper.html)
 
-+ 2020-CVPR - Self-Training With Noisy Student Improves ImageNet Classification. [[Paper]](https://arxiv.org/abs/1911.04252)
++ 2020-CVPR - Self-Training With Noisy Student Improves ImageNet Classification. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_Self-Training_With_Noisy_Student_Improves_ImageNet_Classification_CVPR_2020_paper.html)
 
-+ 2020-CVPR - Noise Robust Generative Adversarial Networks. [[Paper]](https://arxiv.org/abs/1911.11776)
++ 2020-CVPR - Noise Robust Generative Adversarial Networks. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Kaneko_Noise_Robust_Generative_Adversarial_Networks_CVPR_2020_paper.html)
 
-+ 2020-CVPR - Noise-Aware Fully Webly Supervised Object Detection. [[Code]](https://github.com/shenyunhang/NA-fWebSOD)
++ 2020-CVPR - Noise-Aware Fully Webly Supervised Object Detection. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.html)[[Code]](https://github.com/shenyunhang/NA-fWebSOD)
 
-+ 2020-CVPR - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition. 
++ 2020-CVPR - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
