@@ -66,9 +66,15 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)[[Code]](https://github.com/udibr/noisy_labels)
 
++ 2017-ICLR - Who Said What: Modeling Individual Labelers Improves Classification. [[Paper]](https://arxiv.org/abs/1703.08774)
+
 + 2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
-+ 2017-CVPR - Learning From Noisy Large-Scale DatasetsWith Minimal Supervision. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Veit_Learning_From_Noisy_CVPR_2017_paper.html)
++ 2017-CVPR - Learning From Noisy Large-Scale Datasets With Minimal Supervision. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Veit_Learning_From_Noisy_CVPR_2017_paper.html)
+
++ 2017-CVPR - Lean crowdsourcing: Combining humans and machines in an online system. [[Paper]](https://ieeexplore.ieee.org/document/8100130)[[Code]](https://github.com/sbranson/online_crowdsourcing)
+
++ 2017-CVPR - Attend in groups: a weakly-supervised deep learning framework for learning from web data. [[Paper]](https://arxiv.org/abs/1611.09960)[[Code]](https://github.com/bohanzhuang/Attend-in-Groups-a-Weakly-supervised-Deep-Learning-Framework-for-Learning-from-Web-Data)
 
 + 2017-ICML - Robust Probabilistic Modeling with Bayesian Data Reweighting. [[Paper]](https://arxiv.org/abs/1606.03860)[[Code]](https://github.com/yixinwang/robust-rpm-public)
 
@@ -76,9 +82,29 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017-NIPS - Toward Robustness against Label Noise in Training Deep Discriminative Neural Networks. [[Paper]](https://papers.nips.cc/paper/7143-toward-robustness-against-label-noise-in-training-deep-discriminative-neural-networks.pdf)
 
++ 2017-NIPS - Active bias: Training more accurate neural networks by emphasizing high variance samples. [[Paper]](https://arxiv.org/abs/1704.07433)[[Code]](https://github.com/songhwanjun/ActiveBias)
+
++ 2017-NIPS - Decoupling" when to update" from" how to update". [[Paper]](https://arxiv.org/abs/1706.02613)[[Code]](https://github.com/emalach/UpdateByDisagreement)
+
 + 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)[[Code-Tensorflow]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 
 + 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
+
++ 2017 - Fidelity-weighted learning. [[Paper]](https://arxiv.org/pdf/1711.02799)
+
++ 2017-TNLS - Improving Crowdsourced Label Quality Using Noise Correction. [[Paper]](https://ieeexplore.ieee.org/document/7885126)
+
++ 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7961730)
+
++ 2017 - Learning with confident examples: Rank pruning for robust classification with noisy labels. [[Paper]](https://arxiv.org/abs/1705.01936)
+
++ 2017 - Regularizing neural networks by penalizing confident output distributions. [[Paper]](https://arxiv.org/abs/1701.06548)
+
++ 2017 - Learning with Auxiliary Less-Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7448430)
+
++ 2017-ML - Learning to Learn from Weak Supervision by Full Supervision. [[Paper]](https://arxiv.org/abs/1711.11383)[[Code]](https://github.com/krayush07/learn-by-weak-supervision)
+
++ 2017-ML - Avoiding your teacher's mistakes: Training neural networks with controlled weak supervision. [[Paper]](https://arxiv.org/abs/1711.00313)
 
 + 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
