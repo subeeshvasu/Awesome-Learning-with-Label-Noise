@@ -148,6 +148,14 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [[Paper]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf)
 
++ 2019-NIPS - Noise-tolerant fair classification. [[Paper]](https://papers.nips.cc/paper/8322-noise-tolerant-fair-classification)
+
++ 2019-NIPS - Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8378-correlated-uncertainty-for-learning-dense-correspondences-from-noisy-labels)
+
++ 2019-NIPS - Combinatorial Inference against Label Noise. [[Paper]](https://papers.nips.cc/paper/8401-combinatorial-inference-against-label-noise)
+
++ 2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [[Paper]](https://papers.nips.cc/paper/8853-l_dmi-a-novel-information-theoretic-loss-function-for-training-deep-nets-robust-to-label-noise)
+
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 + 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
