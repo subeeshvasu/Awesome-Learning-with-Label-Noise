@@ -152,7 +152,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-NIPS - Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8378-correlated-uncertainty-for-learning-dense-correspondences-from-noisy-labels)
 
-+ 2019-NIPS - Combinatorial Inference against Label Noise. [[Paper]](https://papers.nips.cc/paper/8401-combinatorial-inference-against-label-noise)
++ 2019-NIPS - Combinatorial Inference against Label Noise. [[Paper]](https://papers.nips.cc/paper/8401-combinatorial-inference-against-label-noise)[[Code]](https://github.com/snow12345/Combinatorial_Classification)
 
 + 2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [[Paper]](https://papers.nips.cc/paper/8853-l_dmi-a-novel-information-theoretic-loss-function-for-training-deep-nets-robust-to-label-noise)[[Code]](https://github.com/Newbeeer/L_DMI)
 
