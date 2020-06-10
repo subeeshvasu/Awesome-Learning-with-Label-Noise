@@ -98,7 +98,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-CVPR - Label-Noise Robust Generative Adversarial Networks. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Kaneko_Label-Noise_Robust_Generative_Adversarial_Networks_CVPR_2019_paper.html) [[Code]](https://github.com/takuhirok/rGAN)
 
-+ 2019-CVPR - Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Tanno_Learning_From_Noisy_Labels_by_Regularized_Estimation_of_Annotator_Confusion_CVPR_2019_paper.html)[[Code]](https://rt416.github.io/pdf/trace_codes.pdf)
++ 2019-CVPR - Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Tanno_Learning_From_Noisy_Labels_by_Regularized_Estimation_of_Annotator_Confusion_CVPR_2019_paper.html)
 
 + 2019-CVPR - Probabilistic End-to-end Noise Correction for Learning with Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Yi_Probabilistic_End-To-End_Noise_Correction_for_Learning_With_Noisy_Labels_CVPR_2019_paper.html)[[Code]](https://github.com/yikun2019/PENCIL)
 
@@ -110,7 +110,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-CVPR - Noise-Tolerant Paradigm for Training Face Recognition CNNs. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/html/Hu_Noise-Tolerant_Paradigm_for_Training_Face_Recognition_CNNs_CVPR_2019_paper.html) [[Code]](https://github.com/huangyangyu/NoiseFace)
 
-+ 2019-CVPR - A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_CVPRW_2019_paper.pdf)
++ 2019-CVPR - A Nonlinear, Noise-aware, Quasi-clustering Approach to Learning Deep CNNs from Noisy Labels [[Paper]](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Deep%20Vision%20Workshop/Jindal_A_Nonlinear_Noise-aware_Quasi-clustering_Approach_to_Learning_Deep_CNNs_from_CVPRW_2019_paper.pdf)
 
 + 2019-ICML - Unsupervised Label Noise Modeling and Loss Correction. [[Paper]](https://arxiv.org/abs/1904.11238) [[Code]](https://github.com/PaulAlbert31/LabelNoiseCorrection)
 
@@ -128,7 +128,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-TGRS - Hyperspectral Image Classification in the Presence of Noisy Labels. [[Paper]](https://arxiv.org/abs/1809.04212) [[Code]](https://github.com/junjun-jiang/RLPA)
 
-+ 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.07387)[[Code]](https://github.com/ydkim1293/NLNL-Negative-Learning-for-Noisy-Labels)
++ 2019-ICCV - NLNL: Negative Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.07387)
 
 + 2019-ICCV - Symmetric Cross Entropy for Robust Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1908.06112)[[Code]](https://github.com/YisenWang/symmetric_cross_entropy_for_noisy_labels)
 
@@ -136,7 +136,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ICCV - O2U-Net: A Simple Noisy Label Detection Approach for Deep Neural Networks.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Huang_O2U-Net_A_Simple_Noisy_Label_Detection_Approach_for_Deep_Neural_ICCV_2019_paper.html)
 
-+ 2019-ICCV - Deep Self-Learning From Noisy Labels. [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
++ 2019-ICCV - Deep Self-Learning From Noisy Labels.[[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/html/Han_Deep_Self-Learning_From_Noisy_Labels_ICCV_2019_paper.html)
 
 + 2019-ICCV_W - Photometric Transformer Networks and Label Adjustment for Breast Density Prediction. [[Paper]](https://arxiv.org/abs/1905.02906)
 
@@ -146,15 +146,15 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ISBI - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
-+ 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [[Paper]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf)[[Code]](https://github.com/xiaoboxia/T-Revision)
++ 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [[Paper]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf)
 
-+ 2019-NIPS - Noise-tolerant fair classification. [[Paper]](https://papers.nips.cc/paper/8322-noise-tolerant-fair-classification)[[Code]](https://github.com/AIasd/noise_fairlearn)
++ 2019-NIPS - Noise-tolerant fair classification. [[Paper]](https://papers.nips.cc/paper/8322-noise-tolerant-fair-classification)
 
 + 2019-NIPS - Correlated Uncertainty for Learning Dense Correspondences from Noisy Labels. [[Paper]](https://papers.nips.cc/paper/8378-correlated-uncertainty-for-learning-dense-correspondences-from-noisy-labels)
 
 + 2019-NIPS - Combinatorial Inference against Label Noise. [[Paper]](https://papers.nips.cc/paper/8401-combinatorial-inference-against-label-noise)
 
-+ 2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [[Paper]](https://papers.nips.cc/paper/8853-l_dmi-a-novel-information-theoretic-loss-function-for-training-deep-nets-robust-to-label-noise)[[Code]](https://github.com/Newbeeer/L_DMI)
++ 2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [[Paper]](https://papers.nips.cc/paper/8853-l_dmi-a-novel-information-theoretic-loss-function-for-training-deep-nets-robust-to-label-noise)
 
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
@@ -169,6 +169,8 @@ A curated list of resources for Learning with Noisy Labels
 + 2019 - Derivative Manipulation for General Example Weighting. [[Paper]](https://arxiv.org/abs/1905.11233) [[Code]](https://github.com/XinshaoAmosWang/DerivativeManipulation)
 
 + 2019 - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)
+
++ 2019 - Learning Sound Events from Webly Labeled Data  [[Paper]] (https://www.ijcai.org/proceedings/2019/0384.pdf) [[Code]](https://github.com/anuragkr90/webly-labeled-sounds)
 
 + 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
