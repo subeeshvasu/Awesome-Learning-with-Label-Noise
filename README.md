@@ -54,6 +54,9 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
 
+
++ 2018-ICLR - Dimensionality Driven Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
+
 + 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
 + 2018-CVPR - CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/kuanghuei/clean-net)
