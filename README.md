@@ -88,11 +88,15 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017-IEEE-TIFS - A Light CNN for Deep Face Representation with Noisy Labels. [[Paper]](https://arxiv.org/abs/1511.02683)[[Code-Pytorch]](https://github.com/AlfredXiangWu/LightCNN)[[Code-Keras]](https://github.com/AlfredXiangWu/face_verification_experiment)[[Code-Tensorflow]](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 
++ 2017-TNLS - Improving Crowdsourced Label Quality Using Noise Correction. [[Paper]](https://ieeexplore.ieee.org/document/7885126)
+
++ 2017-ML - Learning to Learn from Weak Supervision by Full Supervision. [[Paper]](https://arxiv.org/abs/1711.11383)[[Code]](https://github.com/krayush07/learn-by-weak-supervision)
+
++ 2017-ML - Avoiding your teacher's mistakes: Training neural networks with controlled weak supervision. [[Paper]](https://arxiv.org/abs/1711.00313)
+
 + 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
 
 + 2017 - Fidelity-weighted learning. [[Paper]](https://arxiv.org/pdf/1711.02799)
-
-+ 2017-TNLS - Improving Crowdsourced Label Quality Using Noise Correction. [[Paper]](https://ieeexplore.ieee.org/document/7885126)
 
 + 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7961730)
 
@@ -101,10 +105,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2017 - Regularizing neural networks by penalizing confident output distributions. [[Paper]](https://arxiv.org/abs/1701.06548)
 
 + 2017 - Learning with Auxiliary Less-Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7448430)
-
-+ 2017-ML - Learning to Learn from Weak Supervision by Full Supervision. [[Paper]](https://arxiv.org/abs/1711.11383)[[Code]](https://github.com/krayush07/learn-by-weak-supervision)
-
-+ 2017-ML - Avoiding your teacher's mistakes: Training neural networks with controlled weak supervision. [[Paper]](https://arxiv.org/abs/1711.00313)
 
 + 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
