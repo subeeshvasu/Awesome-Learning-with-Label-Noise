@@ -6,7 +6,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2008-NIPS - Whose vote should count more: Optimal integration of labels from labelers of unknown expertise. [[Paper]](https://papers.nips.cc/paper/3644-whose-vote-should-count-more-optimal-integration-of-labels-from-labelers-of-unknown-expertise)[[Code]](https://github.com/notani/python-glad)
 
-+2009-ICML - Supervised learning from multiple experts: whom to trust when everyone lies a bit. [[Paper]](http://facweb.cti.depaul.edu/research/vc/seminar/Paper/37.pdf)
++ 2009-ICML - Supervised learning from multiple experts: whom to trust when everyone lies a bit. [[Paper]](http://facweb.cti.depaul.edu/research/vc/seminar/Paper/37.pdf)
 
 + 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
 
