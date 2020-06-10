@@ -146,6 +146,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ISBI - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
++ 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [[Paper]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf)
+
 + 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
 + 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
@@ -201,6 +203,12 @@ A curated list of resources for Learning with Noisy Labels
 + 2020-CVPR - Noise-Aware Fully Webly Supervised Object Detection. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Noise-Aware_Fully_Webly_Supervised_Object_Detection_CVPR_2020_paper.html)[[Code]](https://github.com/shenyunhang/NA-fWebSOD)
 
 + 2020-CVPR - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html)
+
++ 2020-ICML - Learning with Bounded Instance-and Label-dependent Label Noise. [[Paper]](https://arxiv.org/abs/1709.03768)
+
++ 2020-ICML - Label-Noise Robust Domain Adaptation.
+
++ 2020-ICML - LTF: A Label Transformation Framework for Correcting Label Shift.
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
