@@ -64,6 +64,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017-AAAI - Robust Loss Functions under Label Noise for Deep Neural Networks. [[Paper]](https://arxiv.org/abs/1712.09482)
 
++ 2017-PAKDD - On the Robustness of Decision Tree Learning under Label Noise. [[Paper]](https://arxiv.org/pdf/1605.06296.pdf)
+
 + 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)[[Code]](https://github.com/udibr/noisy_labels)
 
 + 2017-ICLR - Who Said What: Modeling Individual Labelers Improves Classification. [[Paper]](https://arxiv.org/abs/1703.08774)
