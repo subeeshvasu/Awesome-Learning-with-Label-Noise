@@ -238,8 +238,6 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
-+ 2019 - Synthetic vs Real: Deep Learning on Controlled Noise. [[Paper]](https://arxiv.org/abs/1911.09781)
-
 + 2019 - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [[Paper]](https://arxiv.org/abs/1903.12141)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
 
 + 2019 - Confident Learning: Estimating Uncertainty in Dataset Labels. [[Paper]](https://arxiv.org/abs/1911.00068) [[Code]](https://github.com/cgnorthcutt/cleanlab)
@@ -304,7 +302,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Searching to Exploit Memorization Effect in Learning from Noisy Labels. [[Paper]](https://arxiv.org/abs/1911.02377)
 
-+ 2020-ICML - Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels.
++ 2020-ICML - Beyond Synthetic Noise: Deep Learning on Controlled Noisy Labels. [[Paper]](https://arxiv.org/abs/1911.09781)
 
 + 2020-ICML - Peer Loss Functions: Learning from Noisy Labels without Knowing Noise Rates. [[Paper]](https://arxiv.org/abs/1910.03231)
 
@@ -314,7 +312,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - S2GA: Robust Deep Learning with Noisy Labels without Early Stopping.
 
-+ 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels.
++ 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
