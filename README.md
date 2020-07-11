@@ -322,7 +322,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ECCV - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
 
-+ 2020- ECCV - Weakly-Supervised Learning with Side Information for Noisy Labeled Images.
++ 2020-ECCV - Weakly-Supervised Learning with Side Information for Noisy Labeled Images.
 
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
