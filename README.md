@@ -314,6 +314,16 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
 
++ 2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [[Paper]](https://arxiv.org/abs/1910.00324)
+
++ 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation.
+
++ 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. 
+
++ 2020-ECCV - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
+
++ 2020- ECCV - Weakly-Supervised Learning with Side Information for Noisy Labeled Images.
+
 + 2020 - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
 + 2020 - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
