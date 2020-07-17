@@ -296,7 +296,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Does label smoothing mitigate label noise?. [[Paper]](https://arxiv.org/abs/2003.02819)
 
-+ 2020-ICML - Error-Bounded Correction of Noisy Labels.
++ 2020-ICML - Error-Bounded Correction of Noisy Labels. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/2506-Paper.pdf)
 
 + 2020-ICML - Deep k-NN for Noisy Labels. [[Paper]](https://arxiv.org/abs/2004.12289)
 
