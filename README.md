@@ -290,9 +290,9 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Learning with Bounded Instance-and Label-dependent Label Noise. [[Paper]](https://arxiv.org/abs/1709.03768)
 
-+ 2020-ICML - Label-Noise Robust Domain Adaptation.
++ 2020-ICML - Label-Noise Robust Domain Adaptation. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/1942-Paper.pdf)
 
-+ 2020-ICML - LTF: A Label Transformation Framework for Correcting Label Shift.
++ 2020-ICML - LTF: A Label Transformation Framework for Correcting Label Shift. [[Papeer]](https://proceedings.icml.cc/static/paper_files/icml/2020/1262-Paper.pdf)
 
 + 2020-ICML - Does label smoothing mitigate label noise?. [[Paper]](https://arxiv.org/abs/2003.02819)
 
@@ -308,9 +308,9 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Improving Generalization by Controlling Label-Noise Information in Neural Network Weights. [[Paper]](https://arxiv.org/abs/2002.07933)[[Code]](https://github.com/hrayrhar/limit-label-memorization)
 
-+ 2020-ICML - Learning Binary Neurons with Noisy Supervision.
++ 2020-ICML - Training Binary Neural Networks through Learning with Noisy Supervision. [[Paperr]](https://proceedings.icml.cc/static/paper_files/icml/2020/181-Paper.pdf)
 
-+ 2020-ICML - S2GA: Robust Deep Learning with Noisy Labels without Early Stopping.
++ 2020-ICML - SIGUA: Forgetting May Make Learning with Noisy Labels More Robust. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/705-Paper.pdf)
 
 + 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
 
