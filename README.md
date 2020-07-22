@@ -334,6 +334,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020 - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
++ 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
+
 **Survey**
 
 + 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
