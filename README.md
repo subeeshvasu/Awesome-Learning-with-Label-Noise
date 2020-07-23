@@ -314,6 +314,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
 
++ 2020-IJCAI - learning with Noise: Improving Distantly-Supervised Fine-grained Entity Typing via Automatic Relabeling. [[Paper]](https://www.ijcai.org/Proceedings/2020/0527.pdf)
+
 + 2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [[Paper]](https://arxiv.org/abs/1910.00324)
 
 + 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation.
