@@ -316,7 +316,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
 
-+ 2020-ICMLW - How does Early Stopping Help Generalization against Label Noise?. [[Paper]](https://arxiv.org/abs/1911.08059)
++ 2020-ICML_W - How does Early Stopping Help Generalization against Label Noise?. [[Paper]](https://arxiv.org/abs/1911.08059)
 
 + 2020-IJCAI - learning with Noise: Improving Distantly-Supervised Fine-grained Entity Typing via Automatic Relabeling. [[Paper]](https://www.ijcai.org/Proceedings/2020/0527.pdf)
 
