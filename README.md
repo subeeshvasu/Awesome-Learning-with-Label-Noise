@@ -196,11 +196,13 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-ICML - How does Disagreement Help Generalization against Label Corruption?. [[Paper]](https://arxiv.org/abs/1901.04215) [[Code]](https://github.com/bhanML/coteaching_plus)
 
-+ 2019-ICML - Using Pre-Training Can Improve Model Robustness and Uncertainty [[Paper]](https://arxiv.org/abs/1901.09960) [[Code]](https://github.com/hendrycks/pre-training)
++ 2019-ICML - Using Pre-Training Can Improve Model Robustness and Uncertainty. [[Paper]](https://arxiv.org/abs/1901.09960) [[Code]](https://github.com/hendrycks/pre-training)
 
-+ 2019-ICML - On Symmetric Losses for Learning from Corrupted Labels [[Paper]](https://arxiv.org/abs/1901.09314) [[Poster]](https://nolfwin.github.io/assets/poster/ICML2019_Symloss_poster.pdf) [[Slides]](https://nolfwin.github.io/assets/slides/ICML2019_Symloss_slides.pdf) [[Code]](https://github.com/nolfwin/symloss-ber-auc)
++ 2019-ICML - On Symmetric Losses for Learning from Corrupted Labels. [[Paper]](https://arxiv.org/abs/1901.09314) [[Poster]](https://nolfwin.github.io/assets/poster/ICML2019_Symloss_poster.pdf) [[Slides]](https://nolfwin.github.io/assets/slides/ICML2019_Symloss_slides.pdf) [[Code]](https://github.com/nolfwin/symloss-ber-auc)
 
-+ 2019-ICML - Combating Label Noise in Deep Learning Using Abstention [[Paper]](https://arxiv.org/abs/1905.10964) [[Code]](https://github.com/thulas/dac-label-noise)
++ 2019-ICML - Combating Label Noise in Deep Learning Using Abstention. [[Paper]](https://arxiv.org/abs/1905.10964) [[Code]](https://github.com/thulas/dac-label-noise)
+
++ 2019-ICML - SELFIE: Refurbishing unclean samples for robust deep learning. [[Paper]](http://proceedings.mlr.press/v97/song19b.html)[[Code]](https://github.com/kaist-dmlab/SELFIE)
 
 + 2019-ICASSP - Learning Sound Event Classifiers from Web Audio with Noisy Labels. [[Paper]](https://arxiv.org/abs/1901.01189) [[Code]](https://github.com/edufonseca/icassp19)
 
@@ -314,6 +316,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
 
++ 2020-ICMLW - How does Early Stopping Help Generalization against Label Noise?. [[Paper]](https://arxiv.org/abs/1911.08059)
+
 + 2020-IJCAI - learning with Noise: Improving Distantly-Supervised Fine-grained Entity Typing via Automatic Relabeling. [[Paper]](https://www.ijcai.org/Proceedings/2020/0527.pdf)
 
 + 2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [[Paper]](https://arxiv.org/abs/1910.00324)
@@ -345,6 +349,8 @@ A curated list of resources for Learning with Noisy Labels
 + 2019 - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey. [[Paper]](https://arxiv.org/abs/1912.05170)
 
 + 2020 - Deep learning with noisy labels: exploring techniques and remedies in medical image analysis. [[Paper]](https://arxiv.org/abs/1912.02911)
+
++ 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199)
 
 **Github**
 - [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
