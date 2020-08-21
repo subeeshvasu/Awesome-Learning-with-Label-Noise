@@ -36,7 +36,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2015-NIPS - Learning with Symmetric Label Noise: The Importance of Being Unhinged. [[Paper]](https://arxiv.org/abs/1505.07634)[[Loss-Code-Unofficial]](https://github.com/giorgiop/loss-correction/blob/master/loss.py)
 
-+ 2015 - Making Risk Minimization Tolerant to Label Noise. [[Paper]](https://arxiv.org/abs/1403.3610)
++ 2015-Arxiv - Making Risk Minimization Tolerant to Label Noise. [[Paper]](https://arxiv.org/abs/1403.3610)
 
 + 2015 - Learning Discriminative Reconstructions for Unsupervised Outlier Removal. [[Paper]](https://www.ganghua.org/publication/ICCV15b.pdf)[[Code]](https://github.com/ClearMoonlight/SoCG_2019/tree/master/DRAE)
 
@@ -96,15 +96,15 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2017-ML - Avoiding your teacher's mistakes: Training neural networks with controlled weak supervision. [[Paper]](https://arxiv.org/abs/1711.00313)
 
-+ 2017 - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
++ 2017-Arxiv - Deep Learning is Robust to Massive Label Noise. [[Paper]](https://arxiv.org/abs/1705.10694)
 
-+ 2017 - Fidelity-weighted learning. [[Paper]](https://arxiv.org/pdf/1711.02799)
++ 2017-Arxiv - Fidelity-weighted learning. [[Paper]](https://arxiv.org/pdf/1711.02799)
 
 + 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7961730)
 
-+ 2017 - Learning with confident examples: Rank pruning for robust classification with noisy labels. [[Paper]](https://arxiv.org/abs/1705.01936)
++ 2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [[Paper]](https://arxiv.org/abs/1705.01936)
 
-+ 2017 - Regularizing neural networks by penalizing confident output distributions. [[Paper]](https://arxiv.org/abs/1701.06548)
++ 2017-Arxiv - Regularizing neural networks by penalizing confident output distributions. [[Paper]](https://arxiv.org/abs/1701.06548)
 
 + 2017 - Learning with Auxiliary Less-Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7448430)
 
@@ -158,7 +158,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018 - Multiclass Learning with Partially Corrupted Labels. [[Paper]](https://ieeexplore.ieee.org/abstract/document/7929355)
 
-+ 2018 - Improving Multi-Person Pose Estimation using Label Correction. [[Paper]](https://arxiv.org/pdf/1811.03331.pdf)
++ 2018-Arxiv- Improving Multi-Person Pose Estimation using Label Correction. [[Paper]](https://arxiv.org/pdf/1811.03331.pdf)
 
 + 2018 - Robust Determinantal Generative Classifier for Noisy Labels and Adversarial Attacks. [[Paper]](https://openreview.net/forum?id=rkle3i09K7)
 
@@ -236,17 +236,17 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [[Paper]](https://papers.nips.cc/paper/8853-l_dmi-a-novel-information-theoretic-loss-function-for-training-deep-nets-robust-to-label-noise)[[Code]](https://github.com/Newbeeer/L_DMI)
 
-+ 2019 - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
++ 2019-Arxiv - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
 
-+ 2019 - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
++ 2019-Arxiv - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
-+ 2019 - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [[Paper]](https://arxiv.org/abs/1903.12141)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
++ 2019-Arxiv - IMAE for Noise-Robust Learning: Mean Absolute Error Does Not Treat Examples Equally and Gradient Magnitude's Variance Matters. [[Paper]](https://arxiv.org/abs/1903.12141)[[Project page]](https://github.com/XinshaoAmosWang/Improving-Mean-Absolute-Error-against-CCE)
 
-+ 2019 - Confident Learning: Estimating Uncertainty in Dataset Labels. [[Paper]](https://arxiv.org/abs/1911.00068) [[Code]](https://github.com/cgnorthcutt/cleanlab)
++ 2019-Arxiv - Confident Learning: Estimating Uncertainty in Dataset Labels. [[Paper]](https://arxiv.org/abs/1911.00068) [[Code]](https://github.com/cgnorthcutt/cleanlab)
 
-+ 2019 - Derivative Manipulation for General Example Weighting. [[Paper]](https://arxiv.org/abs/1905.11233) [[Code]](https://github.com/XinshaoAmosWang/DerivativeManipulation)
++ 2019-Arxiv - Derivative Manipulation for General Example Weighting. [[Paper]](https://arxiv.org/abs/1905.11233) [[Code]](https://github.com/XinshaoAmosWang/DerivativeManipulation)
 
-+ 2019 - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)
++ 2019-Arxiv - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)
 
 + 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
@@ -332,7 +332,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
-+ 2020-Arxiiv - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
++ 2020-Arxiv - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
 
 + 2020-Arxiv - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
 
