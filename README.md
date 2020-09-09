@@ -324,11 +324,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation.
 
-+ 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. 
++ 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. [[Paper]](https://arxiv.org/abs/2007.12211)
 
 + 2020-ECCV - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
 
-+ 2020-ECCV - Weakly-Supervised Learning with Side Information for Noisy Labeled Images.
++ 2020-ECCV - Weakly-Supervised Learning with Side Information for Noisy Labeled Images. [[Paper]](https://arxiv.org/abs/2008.11586)
 
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
