@@ -342,7 +342,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
 
-+ 2020-Arxiv - Early-Learning Regularization Prevents Memorization of Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.00151)
++ 2020-Arxiv - Early-Learning Regularization Prevents Memorization of Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.00151)[[Code]](https://github.com/shengliu66/ELR)
 
 **Survey**
 
