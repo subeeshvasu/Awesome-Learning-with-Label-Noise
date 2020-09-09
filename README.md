@@ -268,7 +268,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ICLR - SELF: Learning to Filter Noisy Labels with Self-Ensembling. [[Paper]](https://arxiv.org/abs/1910.01842)
 
-+ 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://arxiv.org/abs/2002.07394)
++ 2020-ICLR - DivideMix: Learning with Noisy Labels as Semi-supervised Learning. [[Paper]](https://arxiv.org/abs/2002.07394)[[Code]](https://github.com/LiJunnan1992/DivideMix)
 
 + 2020-ICLR - Can gradient clipping mitigate label noise?. [[Paper]](https://openreview.net/pdf?id=rklB76EKPr)
 
