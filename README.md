@@ -134,7 +134,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-ECCV - Deep Bilevel Learning. [[Paper]](https://arxiv.org/abs/1809.01465) [[Code]](https://github.com/sjenni/DeepBilevel)
 
-+ 2018-ECCV - Learning with Biased Complementary Labels. [[Paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiyu_Yu_Learning_with_Biased_ECCV_2018_paper.pdf)
++ 2018-ECCV - Learning with Biased Complementary Labels. [[Paper]](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Xiyu_Yu_Learning_with_Biased_ECCV_2018_paper.pdf)[[Code]](https://tongliang-liu.github.io/code.html)
 
 + 2018-ISBI - Training a neural network based on unreliable human annotation of medical images. [[Paper]](http://www.eng.biu.ac.il/goldbej/files/2018/01/ISBI_2018_Yair.pdf)
 
