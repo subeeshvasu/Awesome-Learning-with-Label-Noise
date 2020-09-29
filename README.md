@@ -352,7 +352,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - Class2Simi: A New Perspective on Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2006.07831)
 
-+ 2020-Arxiv - Confidence Scores Make Instance-dependent Label-noise Learning Possible. [Paper](https://arxiv.org/pdf/2001.03772.pdf)
++ 2020-Arxiv - Confidence Scores Make Instance-dependent Label-noise Learning Possible. [[Paper]](https://arxiv.org/pdf/2001.03772.pdf)
 
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/pdf/2002.06508.pdf)
 
