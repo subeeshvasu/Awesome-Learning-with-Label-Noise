@@ -332,6 +332,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf)
 
++ 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
+
 + 2020-NIPS - Parts-dependent Label Noise: Towards Instance-dependent Label Noise. [[Paper]](https://arxiv.org/abs/2006.07836)
 
 + 2020-NIPS - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://arxiv.org/abs/2006.07805)
@@ -345,8 +347,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)
 
 + 2020-Arxiv - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
-
-+ 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
 
 + 2020-Arxiv - Early-Learning Regularization Prevents Memorization of Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.00151)[[Code]](https://github.com/shengliu66/ELR)
 
