@@ -340,6 +340,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-NIPS - Early-Learning Regularization Prevents Memorization of Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.00151)[[Code]](https://github.com/shengliu66/ELR)
 
++ 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
+
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
 + 2020-Arxiv - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
@@ -347,8 +349,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2020-Arxiv - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
 
 + 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)
-
-+ 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
 + 2020-Arxiv - Class2Simi: A New Perspective on Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2006.07831)
 
