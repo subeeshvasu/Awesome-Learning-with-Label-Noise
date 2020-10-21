@@ -348,7 +348,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)
 
-+ 2020-Arxiv - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
++ 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
 + 2020-Arxiv - Class2Simi: A New Perspective on Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2006.07831)
 
