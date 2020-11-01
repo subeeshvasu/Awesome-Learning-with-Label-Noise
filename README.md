@@ -8,6 +8,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2009-ICML - Supervised learning from multiple experts: whom to trust when everyone lies a bit. [[Paper]](http://facweb.cti.depaul.edu/research/vc/seminar/Paper/37.pdf)
 
++ 2011-NIPS - Bayesian Bias Mitigation for Crowdsourcing. [[Paper]](https://papers.nips.cc/paper/4311-bayesian-bias-mitigation-for-crowdsourcing)
+
 + 2012-ICML - Learning to Label Aerial Images from Noisy Data. [[Paper]](https://www.cs.toronto.edu/~hinton/absps/noisy_maps.pdf)
 
 + 2013-NIPS - Learning with Multiple Labels. [[Paper]](https://papers.nips.cc/paper/2234-learning-with-multiple-labels.pdf)
@@ -116,6 +118,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2018-ICLR - Dimensionality Driven Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
 
++ 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://arxiv.org/abs/1712.04577)
+
 + 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
 + 2018-CVPR - CleanNet: Transfer Learning for Scalable Image Classifier Training with Label Noise. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/html/Lee_CleanNet_Transfer_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/kuanghuei/clean-net)
@@ -167,6 +171,8 @@ A curated list of resources for Learning with Noisy Labels
 + 2019-AAAI - Safeguarded Dynamic Label Regression for Noisy Supervision. [[Paper]](https://arxiv.org/abs/1903.02152) [[Code]](https://github.com/Sunarker/Safeguarded-Dynamic-Label-Regression-for-Noisy-Supervision)
 
 + 2019-ICLR_W - SOSELETO: A Unified Approach to Transfer Learning and Training with Noisy Labels.[[Paper]](https://arxiv.org/pdf/1805.09622.pdf)[[Code]](https://github.com/orlitany/SOSELETO)
+
++ 2019-CVPR - Learning From Noisy Labels by Regularized Estimation of Annotator Confusion. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Tanno_Learning_From_Noisy_Labels_by_Regularized_Estimation_of_Annotator_Confusion_CVPR_2019_paper.html)
 
 + 2019-CVPR - Learning to Learn from Noisy Labeled Data. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Li_Learning_to_Learn_From_Noisy_Labeled_Data_CVPR_2019_paper.pdf) [[Code]](https://github.com/LiJunnan1992/MLNT)
 
@@ -342,6 +348,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-NIPS - Early-Learning Regularization Prevents Memorization of Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.00151)[[Code]](https://github.com/shengliu66/ELR)
 
++ 2020-NIPS - Disentangling Human Error from the Ground Truth in Segmentation of Medical Images. [[Paper]](https://arxiv.org/abs/2007.15963) [[Code]](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images)
+
 + 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
@@ -379,6 +387,7 @@ A curated list of resources for Learning with Noisy Labels
 - [Rankpruning](https://github.com/cgnorthcutt/rankpruning)
 - [Cleanlab: machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab)
 - [Deep Learning with Label Noise](https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature)
+- [Deep Learning for Segmentation When Experts Disagree with Each Other](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images)
 
 **Others**
 - [Deep Learning Package-Chainer Tutorial](https://docs.chainer.org/en/stable/tutorial/index.html)
