@@ -368,7 +368,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - Confidence Scores Make Instance-dependent Label-noise Learning Possible. [[Paper]](https://arxiv.org/pdf/2001.03772.pdf)
 
-+ 2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [[Paper]](https://arxiv.org/abs/2005.03788)
++ 2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [[Paper]](https://arxiv.org/abs/2005.03788)[[Code]](https://github.com/XinshaoAmosWang/ProSelfLC)
 
 + 2020-Arxiv - Limited Gradient Descent: Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1811.08117)
 
