@@ -350,6 +350,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-NIPS - Disentangling Human Error from the Ground Truth in Segmentation of Medical Images. [[Paper]](https://arxiv.org/abs/2007.15963) [[Code]](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images)
 
++ 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
+
 + 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
