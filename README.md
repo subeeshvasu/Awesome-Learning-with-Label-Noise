@@ -362,7 +362,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
 
-+ 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)
++ 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)[[Code]](https://github.com/Manuscrit/Area-Under-the-Margin-Ranking)
 
 + 2020-Arxiv - Class2Simi: A New Perspective on Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2006.07831)
 
