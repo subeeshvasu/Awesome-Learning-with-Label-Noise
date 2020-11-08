@@ -298,6 +298,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-CVPR - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html)
 
++ 2020-CVPR - Training Noise-Robust Deep Neural Networks via Meta-Learning. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Training_Noise-Robust_Deep_Neural_Networks_via_Meta-Learning_CVPR_2020_paper.pdf)
+
 + 2020-ICML - Learning with Bounded Instance-and Label-dependent Label Noise. [[Paper]](https://arxiv.org/abs/1709.03768)
 
 + 2020-ICML - Label-Noise Robust Domain Adaptation. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/1942-Paper.pdf)
