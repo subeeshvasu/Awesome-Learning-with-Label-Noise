@@ -334,7 +334,7 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [[Paper]](https://arxiv.org/abs/1910.00324)
 
-+ 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php)
++ 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php)[[Code]](https://github.com/longrongyang/LNCIS)
 
 + 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. [[Paper]](https://arxiv.org/abs/2007.12211)
 
