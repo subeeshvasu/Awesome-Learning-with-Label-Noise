@@ -330,6 +330,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-IJCAI - learning with Noise: Improving Distantly-Supervised Fine-grained Entity Typing via Automatic Relabeling. [[Paper]](https://www.ijcai.org/Proceedings/2020/0527.pdf)
 
++ 2020-IJCAI - Can Cross Entropy Loss Be Robust to Label Noise?. [[Paper]](https://www.ijcai.org/Proceedings/2020/305)
+
 + 2020-ECCV - Graph convolutional networks for learning with few clean and many noisy labels. [[Paper]](https://arxiv.org/abs/1910.00324)
 
 + 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php)
@@ -356,6 +358,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
++ 2020-IEEEAccess - Limited Gradient Descent: Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1811.08117)
+
 + 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
 + 2020-Arxiv - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
@@ -370,8 +374,6 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [[Paper]](https://arxiv.org/abs/2005.03788)[[Code]](https://github.com/XinshaoAmosWang/ProSelfLC)
 
-+ 2020-Arxiv - Limited Gradient Descent: Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1811.08117)
-
 + 2020-Arxiv - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://arxiv.org/abs/2006.07805)
 
 + 2020-Arxiv - Temporal Calibrated Regularization for Robust Noisy Label Learning. [[Paper]](https://arxiv.org/abs/2007.00240)
@@ -381,8 +383,6 @@ A curated list of resources for Learning with Noisy Labels
 + 2020-Arxiv - Learning from Noisy Labels with Noise Modeling Network. [[Paper]](https://arxiv.org/abs/2005.00596)
 
 + 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
-
-+ 2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [[Paper]](https://arxiv.org/abs/2005.03788)
 
 **Survey**
 
