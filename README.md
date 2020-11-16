@@ -346,6 +346,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
 
++ 2020-NIPS - Self-Adaptive Training: beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/2002.10319) [[Code]](https://github.com/LayneH/self-adaptive-training)
+
 + 2020-NIPS - Parts-dependent Label Noise: Towards Instance-dependent Label Noise. [[Paper]](https://arxiv.org/abs/2006.07836)
 
 + 2020-NIPS - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://arxiv.org/abs/2006.07805)
