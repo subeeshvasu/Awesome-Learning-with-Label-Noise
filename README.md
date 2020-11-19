@@ -386,6 +386,8 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
 
++ 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
+
 **Survey**
 
 + 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
