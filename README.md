@@ -356,9 +356,13 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-NIPS - Disentangling Human Error from the Ground Truth in Segmentation of Medical Images. [[Paper]](https://arxiv.org/abs/2007.15963) [[Code]](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images)
 
++ 2020-NIPS - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://arxiv.org/abs/2006.07805)
+
 + 2020-IJCNN - Temporal Calibrated Regularization for Robust Noisy Label Learning. [[Paper]](https://arxiv.org/abs/2007.00240)
 
 + 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
+
++ 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
 
 + 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
@@ -378,15 +382,11 @@ A curated list of resources for Learning with Noisy Labels
 
 + 2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [[Paper]](https://arxiv.org/abs/2005.03788)[[Code]](https://github.com/XinshaoAmosWang/ProSelfLC)
 
-+ 2020-Arxiv - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://arxiv.org/abs/2006.07805)
-
 + 2020-Arxiv - Parts-dependent Label Noise: Towards Instance-dependent Label Noise. [[Paper]](https://arxiv.org/abs/2006.07836)
 
 + 2020-Arxiv - Learning from Noisy Labels with Noise Modeling Network. [[Paper]](https://arxiv.org/abs/2005.00596)
 
 + 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
-
-+ 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
 
 **Survey**
 
