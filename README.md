@@ -2,7 +2,16 @@
 
     A curated list of resources for Learning with Noisy Labels
 
-[TOC]
+---
+
+- [Learning-with-Label-Noise](#learning-with-label-noise)
+  - [Papers & Code](#papers--code)
+  - [Survey](#survey)
+  - [Github](#github)
+  - [Others](#others)
+  - [Acknowledgements](#acknowledgements)
+
+---
 
 ## Papers & Code
 
