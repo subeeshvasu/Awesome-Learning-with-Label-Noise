@@ -319,7 +319,7 @@
 
 * 2020-ICML - Does label smoothing mitigate label noise?. [[Paper]](https://arxiv.org/abs/2003.02819)
 
-* 2020-ICML - Error-Bounded Correction of Noisy Labels. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/2506-Paper.pdf)
+* 2020-ICML - Error-Bounded Correction of Noisy Labels. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/2506-Paper.pdf) [[Code]](https://github.com/pingqingsheng/LRT)
 
 * 2020-ICML - Deep k-NN for Noisy Labels. [[Paper]](https://arxiv.org/abs/2004.12289)
 
@@ -356,6 +356,8 @@
 * 2020-ECCV - Sub-center ArcFace: Boosting Face Recognition by Large-scale Noisy Web Faces. [[Paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560715.pdf)
 
 * 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
+
+* 2020-NIPS - A Topological Filter for Learning with Label Noise. [[Paper]](https://arxiv.org/pdf/2012.04835.pdf) [[Code]](https://github.com/pxiangwu/TopoFilter)
 
 * 2020-NIPS - Self-Adaptive Training: beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/2002.10319) [[Code]](https://github.com/LayneH/self-adaptive-training)
 
