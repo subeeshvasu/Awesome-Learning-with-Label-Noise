@@ -357,6 +357,8 @@
 
 * 2020-TASLP - Audio Tagging by Cross Filtering Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.08165)
 
+* 2020-NIPS - Robust Optimization for Fairness with Noisy Protected Groups. [[Paper]](https://arxiv.org/pdf/2002.09343.pdf) [[Code]](https://github.com/wenshuoguo/robust-fairness-code)
+
 * 2020-NIPS - A Topological Filter for Learning with Label Noise. [[Paper]](https://arxiv.org/pdf/2012.04835.pdf) [[Code]](https://github.com/pxiangwu/TopoFilter)
 
 * 2020-NIPS - Self-Adaptive Training: beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/2002.10319) [[Code]](https://github.com/LayneH/self-adaptive-training)
@@ -424,6 +426,7 @@
 * [Cleanlab: machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab)
 * [Deep Learning with Label Noise](https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature)
 * [Deep Learning for Segmentation When Experts Disagree with Each Other](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images)
+* [Fair classification with group label noise](https://github.com/wenshuoguo/robust-fairness-code)
 
 ## Others
 
