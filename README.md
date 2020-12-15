@@ -401,6 +401,10 @@
 
 * 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
 
+* 2020-Arxiv - Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2012.04193)[[Code]](https://github.com/chenpf1025/RobustnessAccuracy)
+
+* 2020-Arxiv - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
