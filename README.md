@@ -407,6 +407,8 @@
 
 * 2021-AAAI - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
 
+* 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
