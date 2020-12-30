@@ -403,6 +403,8 @@
 
 * 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
 
+* 2020-ICLR - ImplyLoss: LEARNING FROM RULES GENERALIZING LABELED EXEMPLARS. [[Paper]](https://openreview.net/pdf?id=SkeuexBtDr) [[Code]](https://github.com/awasthiabhijeet/Learning-From-Rules)
+
 * 2021-AAAI - Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2012.04193)[[Code]](https://github.com/chenpf1025/RobustnessAccuracy)
 
 * 2021-AAAI - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
@@ -433,6 +435,7 @@
 * [Deep Learning with Label Noise](https://github.com/gorkemalgan/deep_learning_with_noisy_labels_literature)
 * [Deep Learning for Segmentation When Experts Disagree with Each Other](https://github.com/moucheng2017/Learn_Noisy_Labels_Medical_Images)
 * [Fair classification with group label noise](https://github.com/wenshuoguo/robust-fairness-code)
+* [Learning from Rules](https://github.com/awasthiabhijeet/Learning-From-Rules)
 
 ## Others
 
