@@ -415,6 +415,8 @@
 
 * 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 
+* 2021-WACV - Do We Really Need Gold Samples for Sample Weighting Under Label Noise? [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)[[Code]](https://github.com/arghosh/RobustMW-Net)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
