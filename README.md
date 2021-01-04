@@ -379,8 +379,6 @@
 
 * 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
 
-* 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
-
 * 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
 
 * 2020-IEEEAccess - Limited Gradient Descent: Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/1811.08117)
@@ -416,6 +414,8 @@
 * 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 
 * 2021-WACV - Do We Really Need Gold Samples for Sample Weighting Under Label Noise? [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)[[Code]](https://github.com/arghosh/RobustMW-Net)
+
+* 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
 
 ## Survey
 
