@@ -375,6 +375,8 @@
 
 * 2020-NIPS - Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning. [[Paper]](https://arxiv.org/abs/2006.07805)
 
+* 2020-NIPS - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)[[Code]](https://github.com/Manuscrit/Area-Under-the-Margin-Ranking)
+
 * 2020-IJCNN - Temporal Calibrated Regularization for Robust Noisy Label Learning. [[Paper]](https://arxiv.org/abs/2007.00240)
 
 * 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
@@ -386,8 +388,6 @@
 * 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
 * 2020-Arxiv - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
-
-* 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)[[Code]](https://github.com/Manuscrit/Area-Under-the-Margin-Ranking)
 
 * 2020-Arxiv - Class2Simi: A New Perspective on Learning with Label Noise. [[Paper]](https://arxiv.org/abs/2006.07831)
 
