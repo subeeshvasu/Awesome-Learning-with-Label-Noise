@@ -349,7 +349,7 @@
 
 * 2020-ECCV - Learning with Noisy Class Labels for Instance Segmentation. [[Paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2062_ECCV_2020_paper.php)[[Code]](https://github.com/longrongyang/LNCIS)
 
-* 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. [[Paper]](https://arxiv.org/abs/2007.12211)
+* 2020-ECCV - Learning Noise-Aware Encoder-Decoder from Noisy Labels by Alternating Back-Propagation for Saliency Detection. [[Paper]](https://arxiv.org/abs/2007.12211)[[Code]](https://github.com/JingZhang617/Noise-aware-ABP-Saliency)
 
 * 2020-ECCV - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
 
