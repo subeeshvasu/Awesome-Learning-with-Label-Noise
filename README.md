@@ -385,8 +385,6 @@
 
 * 2020-Arxiv - Multi-Class Classification from Noisy-Similarity-Labeled Data. [[Paper]](https://arxiv.org/abs/2002.06508)
 
-* 2020-Arxiv - NoiseRank: Unsupervised Label Noise Reduction with Dependence Models. [[Paper]](https://arxiv.org/abs/2003.06729)
-
 * 2020-Arxiv - Learning Adaptive Loss for Robust Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2002.06482)
 
 * 2020-Arxiv - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)[[Code]](https://github.com/Manuscrit/Area-Under-the-Margin-Ranking)
