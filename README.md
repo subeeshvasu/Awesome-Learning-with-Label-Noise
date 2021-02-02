@@ -395,8 +395,6 @@
 
 * 2020-Arxiv - ProSelfLC: Progressive Self Label Correction for Training Robust Deep Neural Networks. [[Paper]](https://arxiv.org/abs/2005.03788)[[Code]](https://github.com/XinshaoAmosWang/ProSelfLC)
 
-* 2020-Arxiv - Parts-dependent Label Noise: Towards Instance-dependent Label Noise. [[Paper]](https://arxiv.org/abs/2006.07836)
-
 * 2020-Arxiv - Learning from Noisy Labels with Noise Modeling Network. [[Paper]](https://arxiv.org/abs/2005.00596)
 
 * 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
