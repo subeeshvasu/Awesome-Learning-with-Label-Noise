@@ -383,6 +383,8 @@
 
 * 2020-MICCAI - Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_70)[[Code]](https://github.com/502463708/Confident_Learning_for_Noisy-labeled_Medical_Image_Segmentation)
 
+* 2020-SIBGRAPI - A Survey on Deep Learning with Noisy Labels:How to train your model when you cannot trust onthe annotations?. [[Paper]](https://arxiv.org/abs/2012.03061)[[Code]](https://github.com/filipe-research/tutorial_noisylabels)
+
 * 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
 
 * 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
