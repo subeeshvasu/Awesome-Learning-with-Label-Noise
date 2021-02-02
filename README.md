@@ -337,7 +337,7 @@
 
 * 2020-ICML - SIGUA: Forgetting May Make Learning with Noisy Labels More Robust. [[Paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/705-Paper.pdf)
 
-* 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)
+* 2020-ICML - Normalized Loss Functions for Deep Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2006.13554)[[Code]](https://github.com/HanxunH/Active-Passive-Losses)
 
 * 2020-ICML_W - How does Early Stopping Help Generalization against Label Noise?. [[Paper]](https://arxiv.org/abs/1911.08059)
 
