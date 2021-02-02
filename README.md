@@ -377,7 +377,11 @@
 
 * 2020-NIPS - Identifying Mislabeled Data using the Area Under the Margin Ranking. [[Paper]](https://arxiv.org/abs/2001.10528)[[Code]](https://github.com/Manuscrit/Area-Under-the-Margin-Ranking)
 
++ 2020-NIPS - Coresets for Robust Training of Neural Networks against Noisy Labels. [[Paper]](https://proceedings.neurips.cc//paper/2020/hash/8493eeaccb772c0878f99d60a0bd2bb3-Abstract.html)[[Code]](https://github.com/snap-stanford/crust)
+
 * 2020-IJCNN - Temporal Calibrated Regularization for Robust Noisy Label Learning. [[Paper]](https://arxiv.org/abs/2007.00240)
+
+* 2020-MICCAI - Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_70)[[Code]](https://github.com/502463708/Confident_Learning_for_Noisy-labeled_Medical_Image_Segmentation)
 
 * 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836)[[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
 
