@@ -263,7 +263,7 @@
 
 * 2019-Arxiv - Derivative Manipulation for General Example Weighting. [[Paper]](https://arxiv.org/abs/1905.11233) [[Code]](https://github.com/XinshaoAmosWang/DerivativeManipulation)
 
-* 2019-Arxiv - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)
+* 2020-ICPR - Towards Robust Learning with Different Label Noise Distributions. [[Paper]](https://arxiv.org/abs/1912.08741)[[Code]](https://git.io/JJ0PV)
 
 * 2020-AAAI - Reinforcement Learning with Perturbed Rewards. [[Paper]](https://arxiv.org/abs/1810.01032) [[Code]](https://github.com/wangjksjtu/rl-perturbed-reward)
 
@@ -422,6 +422,8 @@
 * 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
 
 * 2021-CVPR - Improving Unsupervised Image Clustering With Robust Learning. [[Paper]](https://arxiv.org/abs/2012.11150)
+
+* 2021-CVPR - Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
 
 ## Survey
 
