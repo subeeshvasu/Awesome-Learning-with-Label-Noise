@@ -425,6 +425,8 @@
 
 * 2021-CVPR - Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
 
+* 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
