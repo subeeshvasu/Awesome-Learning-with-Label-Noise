@@ -411,8 +411,6 @@
 
 * 2020-Arxiv - Contrast to Divide: self-supervised pre-training for learning with noisy labels. [[Paper]](https://openreview.net/forum?id=uB5x7Y2qsFR)[[Code]](https://github.com/ContrastToDivide/C2D)
 
-* 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
-
 * 2021-AAAI - Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2012.04193)[[Code]](https://github.com/chenpf1025/RobustnessAccuracy)
 
 * 2021-AAAI - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458)[[Code]](https://github.com/chenpf1025/IDN)
@@ -428,6 +426,8 @@
 * 2021-CVPR - Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
 
 * 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
+
+* 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 ## Survey
 
