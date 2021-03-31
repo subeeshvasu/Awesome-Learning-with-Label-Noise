@@ -425,6 +425,8 @@
 
 * 2021-CVPR - Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462)[[Code]](https://git.io/JI40X)
 
+* 2021-CVPR - Noise-resistant Deep Metric Learning with Ranking-based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)[[Code]](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
+
 * 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
 
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
