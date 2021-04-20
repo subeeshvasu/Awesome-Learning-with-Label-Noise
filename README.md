@@ -417,6 +417,8 @@
 
 * 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 
+* 2021-AAAI - From Label Smoothing to Label Relaxation. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-2191.LienenJ.pdf)[[Code]](https://github.com/julilien/LabelRelaxation)
+
 * 2021-WACV - Do We Really Need Gold Samples for Sample Weighting Under Label Noise? [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)[[Code]](https://github.com/arghosh/RobustMW-Net)
 
 * 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704)[[Code]](https://github.com/ragavsachdeva/EvidentialMix)[[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
