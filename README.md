@@ -435,6 +435,8 @@
 
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
+* 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
