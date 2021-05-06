@@ -405,8 +405,6 @@
 
 * 2020-Arxiv - ExpertNet: Adversarial Learning and Recovery Against Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05305)
 
-* 2020-Arxiv - A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/pdf/2012.11854v1.pdf)
-
 * 2020-Arxiv - Noisy Labels Can Induce Good Representations. [[Paper]](https://arxiv.org/pdf/2012.12896.pdf)
 
 * 2020-Arxiv - Contrast to Divide: self-supervised pre-training for learning with noisy labels. [[Paper]](https://openreview.net/forum?id=uB5x7Y2qsFR)[[Code]](https://github.com/ContrastToDivide/C2D)
@@ -418,6 +416,8 @@
 * 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
 
 * 2021-AAAI - From Label Smoothing to Label Relaxation. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-2191.LienenJ.pdf)[[Code]](https://github.com/julilien/LabelRelaxation)
+
+* 2021-AAAI - Tackling Instance-Dependent Label Noise via a Universal Probabilistic Model. [[Paper]](https://arxiv.org/abs/2101.05467)
 
 * 2021-WACV - Do We Really Need Gold Samples for Sample Weighting Under Label Noise? [[Paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)[[Code]](https://github.com/arghosh/RobustMW-Net)
 
@@ -431,10 +431,18 @@
 
 * 2021-CVPR - Augmentation Strategies for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)[[Code]](https://github.com/KentoNishi/Augmentation-for-LNL)
 
+* 2021-CVPR - A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854v2)
+
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
+
+* 2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise. [[Paper]](https://arxiv.org/abs/2104.13766)[[Code]](https://github.com/yingyichen-cyy/Nested-Co-teaching)
 
 * 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh)[[Code]](https://github.com/pxiangwu/PLC)
 
+* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/forum?id=Eql5b1_hTE4)
+
+* 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y)
+* 
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 ## Survey
