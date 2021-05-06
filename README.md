@@ -442,7 +442,7 @@
 * 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/forum?id=Eql5b1_hTE4)
 
 * 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y)
-* 
+
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 ## Survey
