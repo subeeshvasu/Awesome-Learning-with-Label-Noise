@@ -435,6 +435,8 @@
 
 * 2021-CVPR - Faster Meta Update Strategy for Noise-Robust Deep Learning. [[Paper]](https://github.com/youjiangxu/FaMUS/blob/main/paper/famus.pdf)[[Code]](https://github.com/youjiangxu/FaMUS)
 
+* 2021-CVPR - Partially View-aligned Representation Learning with Noise-robust Contrastive Loss. [[Paper]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)[[Code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
+
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 
 * 2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise. [[Paper]](https://arxiv.org/abs/2104.13766)[[Code]](https://github.com/yingyichen-cyy/Nested-Co-teaching)
