@@ -449,8 +449,6 @@
 
 + 2021-CVPR - Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise. [[Paper]](http://gr.xjtu.edu.cn/documents/15788/0/11627.pdf/0b7e0225-2b81-0d1c-27d4-16a080235e37?t=1617536301666)
 
-+ 2021-CVPR - Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)
-
 + 2021-CVPR - DAT: Training Deep Networks Robust To Label-Noise by Matching the Feature Distributions. [[Paper]]()
 
 + 2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2104.00905)
