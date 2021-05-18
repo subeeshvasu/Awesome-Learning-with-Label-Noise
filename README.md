@@ -447,6 +447,24 @@
 
 + 2021-CVPR - Learning Cross-Modal Retrieval With Noisy Labels. [[Paper]]()
 
++ 2021-CVPR - Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise. [[Paper]](http://gr.xjtu.edu.cn/documents/15788/0/11627.pdf/0b7e0225-2b81-0d1c-27d4-16a080235e37?t=1617536301666)
+
++ 2021-CVPR - Noise-Resistant Deep Metric Learning With Ranking-Based Instance Selection. [[Paper]](https://arxiv.org/abs/2103.16047)
+
++ 2021-CVPR - DAT: Training Deep Networks Robust To Label-Noise by Matching the Feature Distributions. [[Paper]]()
+
++ 2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2104.00905)
+
++ 2021-CVPR - Augmentation Strategies for Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)
+
++ 2021-CVPR - Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.06574)
+
++ 2021-CVPR - DualGraph: A Graph-Based Method for Reasoning About Label Noise. [[Paper]]()
+
++ 2021-CVPR - A Second-Order Approach to Learning With Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)
+
++ 2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation. [[Paper]](https://arxiv.org/abs/2103.05863)
+
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 
 * 2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise. [[Paper]](https://arxiv.org/abs/2104.13766)[[Code]](https://github.com/yingyichen-cyy/Nested-Co-teaching)
