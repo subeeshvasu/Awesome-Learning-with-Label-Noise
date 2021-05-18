@@ -455,13 +455,9 @@
 
 + 2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2104.00905)
 
-+ 2021-CVPR - Augmentation Strategies for Learning With Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130)
-
 + 2021-CVPR - Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.06574)
 
 + 2021-CVPR - DualGraph: A Graph-Based Method for Reasoning About Label Noise. [[Paper]]()
-
-+ 2021-CVPR - A Second-Order Approach to Learning With Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854)
 
 + 2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation. [[Paper]](https://arxiv.org/abs/2103.05863)
 
