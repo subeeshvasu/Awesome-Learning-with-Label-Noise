@@ -441,6 +441,12 @@
 
 + 2021-CVPR - Divergence Optimization for Noisy Universal Domain Adaptation. [[Paper]](https://arxiv.org/abs/2104.00246)
 
++ 2021-CVPR - Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification. [[Paper]](https://arxiv.org/abs/2103.04618)[[Code]](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
+
++ 2021-CVPR - Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.13029)
+
++ 2021-CVPR - Learning Cross-Modal Retrieval With Noisy Labels. [[Paper]]()
+
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 
 * 2021-CVPRW - Boosting Co-teaching with Compression Regularization for Label Noise. [[Paper]](https://arxiv.org/abs/2104.13766)[[Code]](https://github.com/yingyichen-cyy/Nested-Co-teaching)
