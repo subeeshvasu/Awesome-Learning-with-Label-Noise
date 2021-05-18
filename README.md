@@ -437,7 +437,9 @@
 
 * 2021-CVPR - Partially View-aligned Representation Learning with Noise-robust Contrastive Loss. [[Paper]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)[[Code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
 
-+ 2020-CVPR - Correlated Input-Dependent Label Noise in Large-Scale Image Classification. [[Paper]]()
++ 2021-CVPR - Correlated Input-Dependent Label Noise in Large-Scale Image Classification. [[Paper]]()
+
++ 2021-CVPR - Divergence Optimization for Noisy Universal Domain Adaptation. [[Paper]](https://arxiv.org/abs/2104.00246)
 
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf)[[Code]](https://github.com/arghosh/noisy_label_pretrain)
 
