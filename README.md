@@ -243,6 +243,10 @@
 
 * 2019-ISBI - Robust Learning at Noisy Labeled Medical Images: Applied to Skin Lesion Classification. [[Paper]](https://arxiv.org/abs/1901.07759)
 
+* 2019-AISTATS - Two-temperature logistic regression based on the Tsallis divergence. [[Paper]](https://arxiv.org/abs/1705.07210)
+
+* 2019-NIPS - Robust bi-tempered logistic loss based on Bregman divergences. [[Paper]](https://arxiv.org/abs/1906.03361)[[Blog]](https://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html)[[Code]](https://github.com/google/bi-tempered-loss)[[Demo]](https://google.github.io/bi-tempered-loss/)
+
 * 2019-NIPS - Are Anchor Points Really Indispensable in Label-Noise Learning?. [[Paper]](https://papers.nips.cc/paper/8908-are-anchor-points-really-indispensable-in-label-noise-learning.pdf)[[Code]](https://github.com/xiaoboxia/T-Revision)
 
 * 2019-NIPS - Noise-tolerant fair classification. [[Paper]](https://papers.nips.cc/paper/8322-noise-tolerant-fair-classification)[[Code]](https://github.com/AIasd/noise_fairlearn)
