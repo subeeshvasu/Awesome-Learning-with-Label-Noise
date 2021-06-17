@@ -473,6 +473,8 @@
 
 * 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y)
 
+* 2021-TIP - Delving Deep into Label Smoothing. [[Paper]](http://mftp.mmcheng.net/Papers/21TIP-OLS.pdf)[[Code]](https://github.com/zhangchbin/OnlineLabelSmoothing)
+
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 * 2021-Arxiv - A Framework using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.09563)
