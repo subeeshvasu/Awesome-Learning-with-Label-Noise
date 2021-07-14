@@ -475,11 +475,11 @@
 
 * 2021-TIP - Delving Deep into Label Smoothing. [[Paper]](http://mftp.mmcheng.net/Papers/21TIP-OLS.pdf)[[Code]](https://github.com/zhangchbin/OnlineLabelSmoothing)
 
+* 2021-PAKDD - Memorization in Deep Neural Networks: Does the Loss Function Matter? [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11)] [[Code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)]
+
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 * 2021-Arxiv - A Framework using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.09563)
-
-* 2021-PAKDD - Memorization in Deep Neural Networks: Does the Loss Function Matter? [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11)] [[Code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)]
 
 * 2021-Arxiv - Adaptive Sample Selection for Robust Learning under Label Noise [[Paper](https://arxiv.org/abs/2106.15292)] [[Code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)]
 
