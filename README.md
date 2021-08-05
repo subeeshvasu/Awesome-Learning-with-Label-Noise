@@ -31,8 +31,6 @@
 
 * 2014 - A Comprehensive Introduction to Label Noise. [[Paper]](https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2014-10.pdf)
 
-* 2014-Survey - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://pdfs.semanticscholar.org/2c8f/24f859bbbc4193d4d83645ef467bcf25adc2.pdf)
-
 * 2014 - Learning from Noisy Labels with Deep Neural Networks. [[Paper]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.749.1795&rep=rep1&type=pdf)
 
 * 2015-ICLR_W - Training Convolutional Networks with Noisy Labels. [[Paper]](https://arxiv.org/abs/1406.2080) [[Code]](https://github.com/tesatory/convnet-noisy)
@@ -379,8 +377,6 @@
 
 * 2020-MICCAI - Characterizing Label Errors: Confident Learning for Noisy-labeled Image Segmentation. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_70) [[Code]](https://github.com/502463708/Confident_Learning_for_Noisy-labeled_Medical_Image_Segmentation)
 
-* 2020-SIBGRAPI - A Survey on Deep Learning with Noisy Labels:How to train your model when you cannot trust on the annotations?. [[Paper]](https://arxiv.org/abs/2012.03061) [[Code]](https://github.com/filipe-research/tutorial_noisylabels)
-
 * 2020-ICPR - Meta Soft Label Generation for Noisy Labels. [[Paper]](https://arxiv.org/abs/2007.05836) [[Code]](https://github.com/gorkemalgan/MSLG_noisy_label)
 
 * 2020-IJCV - Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation [[Paper]](https://arxiv.org/abs/2003.03773) [[Code]](https://github.com/layumi/Seg-Uncertainty)
@@ -409,7 +405,7 @@
 
 * 2021-AAAI - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458) [[Code]](https://github.com/chenpf1025/IDN)
 
-* 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/)
+* 2021-AAAI - Meta Label Correction for Noisy Label Learning. [[Paper]](https://www.microsoft.com/en-us/research/publication/meta-label-correction-for-noisy-label-learning/) [[Code]](https://github.com/microsoft/MLC)
 
 * 2021-AAAI - From Label Smoothing to Label Relaxation. [[Paper]](https://www.aaai.org/AAAI21Papers/AAAI-2191.LienenJ.pdf) [[Code]](https://github.com/julilien/LabelRelaxation)
 
@@ -419,7 +415,7 @@
 
 * 2021-WACV - EvidentialMix: Learning with Combined Open-set and Closed-set Noisy Labels. [[Paper]](https://arxiv.org/abs/2011.05704) [[Code]](https://github.com/ragavsachdeva/EvidentialMix) [[Blog]](https://ragavsachdeva.github.io/research/2020/evidentialmix/)
 
-* 2021-CVPR - Improving Unsupervised Image Clustering With Robust Learning. [[Paper]](https://arxiv.org/abs/2012.11150)
+* 2021-CVPR - Improving Unsupervised Image Clustering With Robust Learning. [[Paper]](https://arxiv.org/abs/2012.11150) [[Code]](https://github.com/deu30303/RUC)
 
 * 2021-CVPR - Multi-Objective Interpolation Training for Robustness to Label Noise. [[Paper]](https://arxiv.org/abs/2012.04462) [[Code]](https://git.io/JI40X)
 
@@ -427,33 +423,33 @@
 
 * 2021-CVPR - Augmentation Strategies for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.02130) [[Code]](https://github.com/KentoNishi/Augmentation-for-LNL)
 
-* 2021-CVPR - A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854v2)
+* 2021-CVPR - A Second-Order Approach to Learning with Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.11854v2) [[Code]](https://github.com/UCSC-REAL/CAL)
 
 * 2021-CVPR - Faster Meta Update Strategy for Noise-Robust Deep Learning. [[Paper]](https://github.com/youjiangxu/FaMUS/blob/main/paper/famus.pdf) [[Code]](https://github.com/youjiangxu/FaMUS)
 
 * 2021-CVPR - Partially View-aligned Representation Learning with Noise-robust Contrastive Loss. [[Paper]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN) [[Code]](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
 
-+ 2021-CVPR - Correlated Input-Dependent Label Noise in Large-Scale Image Classification. [[Paper]]()
++ 2021-CVPR - Correlated Input-Dependent Label Noise in Large-Scale Image Classification. [[Paper]](https://arxiv.org/pdf/2105.10305v1.pdf)
 
-+ 2021-CVPR - Divergence Optimization for Noisy Universal Domain Adaptation. [[Paper]](https://arxiv.org/abs/2104.00246)
++ 2021-CVPR - Divergence Optimization for Noisy Universal Domain Adaptation. [[Paper]](https://arxiv.org/abs/2104.00246) [[Code]](https://github.com/YU1ut/Divergence-Optimization)
 
 + 2021-CVPR - Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification. [[Paper]](https://arxiv.org/abs/2103.04618) [[Code]](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
 
-+ 2021-CVPR - Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.13029)
++ 2021-CVPR - Jo-SRC: A Contrastive Approach for Combating Noisy Labels. [[Paper]](https://arxiv.org/abs/2103.13029) [[Code]](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
 
-+ 2021-CVPR - Learning Cross-Modal Retrieval With Noisy Labels. [[Paper]]()
++ 2021-CVPR - Learning Cross-Modal Retrieval With Noisy Labels. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Learning_Cross-Modal_Retrieval_With_Noisy_Labels_CVPR_2021_paper.pdf)
 
-+ 2021-CVPR - Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise. [[Paper]](http://gr.xjtu.edu.cn/documents/15788/0/11627.pdf/0b7e0225-2b81-0d1c-27d4-16a080235e37?t=1617536301666)
++ 2021-CVPR - Learning an Explicit Weighting Scheme for Adapting Complex HSI Noise. [[Paper]](http://gr.xjtu.edu.cn/documents/15788/0/11627.pdf/0b7e0225-2b81-0d1c-27d4-16a080235e37?t=1617536301666) [[Code]](https://github.com/xyrui/HWnet)
 
-+ 2021-CVPR - DAT: Training Deep Networks Robust To Label-Noise by Matching the Feature Distributions. [[Paper]]()
++ 2021-CVPR - DAT: Training Deep Networks Robust To Label-Noise by Matching the Feature Distributions. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Qu_DAT_Training_Deep_Networks_Robust_To_Label-Noise_by_Matching_the_CVPR_2021_paper.pdf)
 
-+ 2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2104.00905)
++ 2021-CVPR - Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2104.00905) [[Code]](https://github.com/cvlab-yonsei/BANA)
 
-+ 2021-CVPR - Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.06574)
++ 2021-CVPR - Joint Negative and Positive Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.06574) [[Code]](https://github.com/CQUEEN-lpy/JNPL)
 
-+ 2021-CVPR - DualGraph: A Graph-Based Method for Reasoning About Label Noise. [[Paper]]()
++ 2021-CVPR - DualGraph: A Graph-Based Method for Reasoning About Label Noise. [[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DualGraph_A_Graph-Based_Method_for_Reasoning_About_Label_Noise_CVPR_2021_paper.pdf)
 
-+ 2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation. [[Paper]](https://arxiv.org/abs/2103.05863)
++ 2021-CVPR - AutoDO: Robust AutoAugment for Biased Data With Label Noise via Scalable Probabilistic Implicit Differentiation. [[Paper]](https://arxiv.org/abs/2103.05863) [[Code]](https://github.com/gudovskiy/autodo)
 
 * 2021-CVPRW - Contrastive Learning Improves Model Robustness Under Label Noise. [[Paper]](https://arxiv.org/pdf/2104.08984.pdf) [[Code]](https://github.com/arghosh/noisy_label_pretrain)
 
@@ -461,9 +457,9 @@
 
 * 2021-ICLR - Learning with Feature-Dependent Label Noise: A Progressive Approach. [[Paper]](https://openreview.net/pdf?id=ZPa2SyGcbwh) [[Code]](https://github.com/pxiangwu/PLC)
 
-* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/forum?id=Eql5b1_hTE4)
+* 2021-ICLR - Robust early-learning: Hindering the memorization of noisy labels. [[Paper]](https://openreview.net/forum?id=Eql5b1_hTE4) [[Code]](https://github.com/xiaoboxia/CDR)
 
-* 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y)
+* 2021-ICLR - MoPro: Webly Supervised Learning with Momentum Prototypes. [[Paper]](https://openreview.net/forum?id=0-EYBhgw80y) [[Code]](https://github.com/salesforce/MoPro)
 
 * 2021-TIP - Delving Deep into Label Smoothing. [[Paper]](http://mftp.mmcheng.net/Papers/21TIP-OLS.pdf) [[Code]](https://github.com/zhangchbin/OnlineLabelSmoothing)
 
@@ -479,9 +475,11 @@
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
 
-* 2019 - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey. [[Paper]](https://arxiv.org/abs/1912.05170)
+* 2019-KBS - Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey. [[Paper]](https://arxiv.org/abs/1912.05170)
 
-* 2020 - Deep learning with noisy labels: exploring techniques and remedies in medical image analysis. [[Paper]](https://arxiv.org/abs/1912.02911)
+* 2020-SIBGRAPI - A Survey on Deep Learning with Noisy Labels:How to train your model when you cannot trust on the annotations?. [[Paper]](https://arxiv.org/abs/2012.03061) [[Code]](https://github.com/filipe-research/tutorial_noisylabels)
+
+* 2020-MIA - Deep learning with noisy labels: exploring techniques and remedies in medical image analysis. [[Paper]](https://arxiv.org/abs/1912.02911)
 
 * 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199) [[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 
@@ -492,7 +490,7 @@
 * [Noisy Label Neural Network1-Tensorflow](https://github.com/EstherMaria/NoisyLabelNeuralNetwork)
 * [Noisy Label Neural Network2-Chainer](https://github.com/Ryo-Ito/Noisy-Labels-Neural-Network)
 * [Multi-tasking Learning With Unreliable Labels](https://github.com/debjitpaul/Multi-tasking_Learning_With_Unreliable_Labels)
-* [Keras-noisy-lables-finetune](https://github.com/nagash91/keras-noisy-lables-finetune) 
+* [Keras-noisy-lables-finetune](https://github.com/nagash91/keras-noisy-lables-finetune)
 * [Light CNN for Deep Face Recognition, in Tensorflow](https://github.com/yxu0611/Tensorflow-implementation-of-LCNN)
 * [Rankpruning](https://github.com/cgnorthcutt/rankpruning)
 * [Cleanlab: machine learning python package for learning with noisy labels and finding label errors in datasets](https://github.com/cgnorthcutt/cleanlab)
