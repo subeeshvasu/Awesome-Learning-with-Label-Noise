@@ -65,7 +65,7 @@
 
 * 2016-RL - On the convergence of a family of robust losses for stochastic gradient descent. [[Paper]](https://arxiv.org/abs/1605.01623)
 
-* 2016-NC - Noise detection in the Meta-Learning Level. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231215005482)
+* 2016-NC - Noise detection in the Meta-Learning Level. [[Paper]](https://www.sciencedirect.com/science/article/pii/S0925231215005482)[[Additional information]](https://github.com/lpfgarcia/m2n)
 
 * 2016-ECCV - The Unreasonable Effectiveness of Noisy Data for Fine-Grained Recognition. [[Paper]](https://arxiv.org/pdf/1511.06789)[[Project Page]](https://github.com/google/goldfinch)
 
@@ -81,7 +81,7 @@
 
 * 2017-ICLR - Training deep neural-networks using a noise adaptation layer. [[Paper]](https://openreview.net/forum?id=H12GRgcxg)[[Code]](https://github.com/udibr/noisy_labels)
 
-* 2017-ICLR - Who Said What: Modeling Individual Labelers Improves Classification. [[Paper]](https://arxiv.org/abs/1703.08774)
+* 2017-ICLR - Who Said What: Modeling Individual Labelers Improves Classification. [[Paper]](https://arxiv.org/abs/1703.08774)[[Code]](https://github.com/seunghyukcho/doctornet-pytorch)
 
 * 2017-CVPR - Making Deep Neural Networks Robust to Label Noise: a Loss Correction Approach. [[Paper]](http://openaccess.thecvf.com/content_cvpr_2017/html/Patrini_Making_Deep_Neural_CVPR_2017_paper.html) [[Code]](https://github.com/giorgiop/loss-correction)
 
@@ -115,7 +115,7 @@
 
 * 2017 - Self-Error-Correcting Convolutional Neural Network for Learning with Noisy Labels. [[Paper]](https://ieeexplore.ieee.org/document/7961730)
 
-* 2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [[Paper]](https://arxiv.org/abs/1705.01936)
+* 2017-Arxiv - Learning with confident examples: Rank pruning for robust classification with noisy labels. [[Paper]](https://arxiv.org/abs/1705.01936)[[Code]](https://github.com/cgnorthcutt/rankpruning)
 
 * 2017-Arxiv - Regularizing neural networks by penalizing confident output distributions. [[Paper]](https://arxiv.org/abs/1701.06548)
 
@@ -126,10 +126,6 @@
 * 2018-ICLR - mixup: Beyond Empirical Risk Minimization. [[Paper]](https://arxiv.org/abs/1710.09412) [[Code]](https://github.com/facebookresearch/mixup-cifar10)
 
 * 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://openreview.net/forum?id=H1sUHgb0Z) [[Code]](https://https://github.com/khetan2/MBEM)
-
-* 2018-ICLR - Dimensionality Driven Learning for Noisy Labels. [[Paper]](https://arxiv.org/abs/1806.02612) [[Code]](https://github.com/xingjunm/dimensionality-driven-learning)
-
-* 2018-ICLR - Learning From Noisy Singly-labeled Data. [[Paper]](https://arxiv.org/abs/1712.04577)
 
 * 2018-ICLR_W - How Do Neural Networks Overcome Label Noise?. [[Paper]](https://openreview.net/forum?id=ryu4RYJPM)
 
@@ -475,13 +471,13 @@
 
 * 2021-TIP - Delving Deep into Label Smoothing. [[Paper]](http://mftp.mmcheng.net/Papers/21TIP-OLS.pdf)[[Code]](https://github.com/zhangchbin/OnlineLabelSmoothing)
 
-* 2021-PAKDD - Memorization in Deep Neural Networks: Does the Loss Function Matter? [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11)] [[Code](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)]
+* 2021-PAKDD - Memorization in Deep Neural Networks: Does the Loss Function Matter? [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)
 
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 * 2021-Arxiv - A Framework using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.09563)
 
-* 2021-Arxiv - Adaptive Sample Selection for Robust Learning under Label Noise [[Paper](https://arxiv.org/abs/2106.15292)] [[Code](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)]
+* 2021-Arxiv - Adaptive Sample Selection for Robust Learning under Label Noise [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
 ## Survey
 
@@ -491,7 +487,7 @@
 
 * 2020 - Deep learning with noisy labels: exploring techniques and remedies in medical image analysis. [[Paper]](https://arxiv.org/abs/1912.02911)
 
-* 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199)
+* 2020 - Learning from Noisy Labels with Deep Neural Networks: A Survey. [[Paper]](https://arxiv.org/abs/2007.08199)[[Project Page]](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 
 ## Github
 
