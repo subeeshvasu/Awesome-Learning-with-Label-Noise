@@ -473,6 +473,8 @@
 
 * 2021 - A Realistic Simulation Framework for Learning with Label Noise [[Paper]](https://arxiv.org/pdf/2107.11413v1.pdf) [[Project]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label)
 
+* 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
