@@ -475,6 +475,8 @@
 
 * 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
 
+* 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision [[Paper]](https://arxiv.org/abs/2108.04063)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
