@@ -478,6 +478,8 @@
 * 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision [[Paper]](https://arxiv.org/abs/2108.04063)
 * 2021-IJCAI - Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion [[Paper]](https://arxiv.org/abs/2106.09291)
 
+* 2021-NeurIPS - Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks [[Paper]](https://arxiv.org/abs/2103.14749) [[Demo]](https://labelerrors.com/) [[Code]](https://github.com/cleanlab/label-errors) [[Blog Post]](https://l7.curtisnorthcutt.com/label-errors)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
