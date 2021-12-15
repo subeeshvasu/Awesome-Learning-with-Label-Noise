@@ -476,6 +476,7 @@
 * 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
 
 * 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision [[Paper]](https://arxiv.org/abs/2108.04063)
+* 2021-IJCAI - Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion [[Paper]](https://arxiv.org/abs/2106.09291)
 
 ## Survey
 
