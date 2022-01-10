@@ -465,22 +465,29 @@
 
 * 2021-PAKDD - Memorization in Deep Neural Networks: Does the Loss Function Matter? [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_11) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/memorization_and_overparam)
 
-* 2021-NIPS - FINE Samples for Learning with Noisy Labels [[Paper]](https://openreview.net/forum?id=QZpx42n0BWr)[[Code]](https://github.com/Kthyeon/FINE_official)
+* 2021-NIPS - FINE Samples for Learning with Noisy Labels. [[Paper]](https://openreview.net/forum?id=QZpx42n0BWr)[[Code]](https://github.com/Kthyeon/FINE_official)
+
+* 2021-NeurIPS - Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks. [[Paper]](https://arxiv.org/abs/2103.14749) [[Demo]](https://labelerrors.com/) [[Code]](https://github.com/cleanlab/label-errors) [[Blog Post]](https://l7.curtisnorthcutt.com/label-errors)
+
+* 2021-NeurIPS - Understanding and Improving Early Stopping for Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2106.15853v2)
 
 * 2021-Arxiv - Improving Medical Image Classification with Label Noise Using Dual-uncertainty Estimation. [[Paper]](https://arxiv.org/abs/2103.00528)
 
 * 2021-Arxiv - A Framework using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.09563)
 
-* 2021-Arxiv - Adaptive Sample Selection for Robust Learning under Label Noise [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
+* 2021-Arxiv - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
-* 2021 - A Realistic Simulation Framework for Learning with Label Noise [[Paper]](https://arxiv.org/pdf/2107.11413v1.pdf) [[Project]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label)
+* 2021-Arxiv - Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2103.11594v3)
 
-* 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
+* 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [[Paper]](https://arxiv.org/pdf/2107.11413v4.pdf) [[Project Page]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label)
 
-* 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision [[Paper]](https://arxiv.org/abs/2108.04063)
-* 2021-IJCAI - Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion [[Paper]](https://arxiv.org/abs/2106.09291)
+* 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise. [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
 
-* 2021-NeurIPS - Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks [[Paper]](https://arxiv.org/abs/2103.14749) [[Demo]](https://labelerrors.com/) [[Code]](https://github.com/cleanlab/label-errors) [[Blog Post]](https://l7.curtisnorthcutt.com/label-errors)
+* 2021-MM - Co-learning: Learning from Noisy Labels with Self-supervision. [[Paper]](https://arxiv.org/abs/2108.04063) [[Code]](https://github.com/chengtan9907/co-training-based_noisy-label-learning)
+
+* 2021-IJCAI - Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion. [[Paper]](https://arxiv.org/abs/2106.09291)
+
+* 2022-Arxiv - Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels. [[Paper]](https://arxiv.org/abs/2201.00232v1)
 
 ## Survey
 
