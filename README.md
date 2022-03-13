@@ -489,6 +489,8 @@
 
 * 2022-Arxiv - Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels. [[Paper]](https://arxiv.org/abs/2201.00232v1)
 
+* 2022-ICLR - PiCO: Contrastive Label Disambiguation for Partial Label Learning. [[Paper]](https://arxiv.org/abs/2201.08984)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
