@@ -489,9 +489,11 @@
 
 * 2022-Arxiv - Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels. [[Paper]](https://arxiv.org/abs/2201.00232v1)
 
-* 2022-Arxiv - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2203.14542v1.pdf) [[Code]](https://github.com/nazmul-karim170/unicon-noisy-label)
+* 2022-Arxiv - Multi-class Label Noise Learning via Loss Decomposition and Centroid Estimation. [[Paper]](https://arxiv.org/pdf/2203.10858v1.pdf)
 
 * 2022-ICLR - PiCO: Contrastive Label Disambiguation for Partial Label Learning. [[Paper]](https://arxiv.org/abs/2201.08984)
+
+* 2022-CVPR - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2203.14542v1.pdf) [[Code]](https://github.com/nazmul-karim170/unicon-noisy-label)
 
 ## Survey
 
