@@ -495,6 +495,8 @@
 
 * 2022-CVPR - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2203.14542v1.pdf) [[Code]](https://github.com/nazmul-karim170/unicon-noisy-label)
 
+* 2022-CVPR - Few-shot Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2204.05494)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
