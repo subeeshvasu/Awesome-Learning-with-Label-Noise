@@ -485,13 +485,13 @@
 
 * 2021-IJCAI - Towards Understanding Deep Learning from Noisy Labels with Small-Loss Criterion. [[Paper]](https://arxiv.org/abs/2106.09291)
 
-* 2022-WSDM - Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels. [[Paper]](1https://arxiv.org/pdf/2201.00232.pdf) [[Code]](https://github.com/enyandai/rsgnn)
+* 2022-WSDM - Towards Robust Graph Neural Networks for Noisy Graphs with Sparse Labels. [[Paper]](https://arxiv.org/pdf/2201.00232.pdf) [[Code]](https://github.com/enyandai/rsgnn)
 
 * 2022-Arxiv - Multi-class Label Noise Learning via Loss Decomposition and Centroid Estimation. [[Paper]](https://arxiv.org/pdf/2203.10858v1.pdf)
 
-* 2022-AAAI - Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2103.11594v3) [[Code]](https://github.com/YaoruLuo/Deep-Neural-Networks-Learn-Meta-Structures-from-Noisy-Labels-in-Semantic-Segmentation)
+* 2022-AAAI - Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation. [[Paper]](https://arxiv.org/pdf/2103.11594.pdf) [[Code]](https://github.com/YaoruLuo/Deep-Neural-Networks-Learn-Meta-Structures-from-Noisy-Labels-in-Semantic-Segmentation)
 
-* 2022-ICLR - PiCO: Contrastive Label Disambiguation for Partial Label Learning. [[Paper]](https://arxiv.org/abs/2201.08984) [[Code]](https://github.com/hbzju/pico)
+* 2022-ICLR - PiCO: Contrastive Label Disambiguation for Partial Label Learning. [[Paper]](https://openreview.net/pdf?id=EhYjZy6e1gJ) [[Code]](https://github.com/hbzju/pico)
 
 * 2022-CVPR - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2203.14542v1.pdf) [[Code]](https://github.com/nazmul-karim170/unicon-noisy-label)
 
