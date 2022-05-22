@@ -501,6 +501,8 @@
 
 * 2022-CVPR - Large-Scale Pre-training for Person Re-identification with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.16533) [[Code]](https://github.com/DengpanFu/LUPerson-NL)
 
+* 2022-CVPR - Adaptive Early-Learning Correction for Segmentation from Noisy Annotations. [[Paper]](https://arxiv.org/abs/2110.03740) [[Code]](https://github.com/Kangningthu/ADELE)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
