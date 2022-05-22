@@ -497,6 +497,8 @@
 
 * 2022-CVPR - Few-shot Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2204.05494)
 
+* 2022-CVPR - Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.07788) [[Code]](https://github.com/Yikai-Wang/SPR-LNL)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
