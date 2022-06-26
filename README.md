@@ -491,6 +491,8 @@
 
 * 2022-AAAI - Deep Neural Networks Learn Meta-Structures from Noisy Labels in Semantic Segmentation. [[Paper]](https://arxiv.org/pdf/2103.11594.pdf) [[Code]](https://github.com/YaoruLuo/Deep-Neural-Networks-Learn-Meta-Structures-from-Noisy-Labels-in-Semantic-Segmentation)
 
+* 2022-AAAI - Noise-robust Learning from Multiple Unsupervised Sources of Inferred Labels. [[Paper]](https://www.aaai.org/AAAI22Papers/AAAI-6443.SilvaA.pdf)
+
 * 2022-ICLR - PiCO: Contrastive Label Disambiguation for Partial Label Learning. [[Paper]](https://openreview.net/pdf?id=EhYjZy6e1gJ) [[Code]](https://github.com/hbzju/pico)
 
 * 2022-CVPR - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2203.14542v1.pdf) [[Code]](https://github.com/nazmul-karim170/unicon-noisy-label)
