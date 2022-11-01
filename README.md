@@ -507,7 +507,7 @@
 
 * 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [[Paper]](https://arxiv.org/abs/2111.11288) [[Code]](https://github.com/MrChenFeng/SSR_BMVC2022)
 
-2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
+* 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
 ## Survey
 
