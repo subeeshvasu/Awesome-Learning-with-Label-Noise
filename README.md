@@ -523,6 +523,8 @@
 
 ## Github
 
+* [Advances-in-Label-Noise-Learning](https://github.com/weijiaheng/Advances-in-Label-Noise-Learning)
+* [Awesome-Noisy-Labels](https://github.com/songhwanjun/Awesome-Noisy-Labels)
 * [Search 'Noisy Label' Results](https://github.com/search?p=1&q=noisy+label&type=Repositories&utf8=%E2%9C%93)
 * [Noisy Labels with Jupyter  Notebook](https://github.com/udibr/noisy_labels)
 * [Noisy Label Neural Network1-Tensorflow](https://github.com/EstherMaria/NoisyLabelNeuralNetwork)
