@@ -497,7 +497,7 @@
 
 * 2022-CVPR - UNICON: Combating Label Noise Through Uniform Selection and Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2203.14542v1.pdf) [[Code]](https://github.com/nazmul-karim170/unicon-noisy-label)
 
-* 2022-CVPR - Few-shot Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2204.05494)
+* 2022-CVPR - Few-shot Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2204.05494) [[Code]](https://github.com/facebookresearch/noisy_few_shot)
 
 * 2022-CVPR - Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.07788) [[Code]](https://github.com/Yikai-Wang/SPR-LNL)
 
