@@ -401,6 +401,8 @@
 
 * 2020-Arxiv - Contrast to Divide: self-supervised pre-training for learning with noisy labels. [[Paper]](https://openreview.net/forum?id=uB5x7Y2qsFR) [[Code]](https://github.com/ContrastToDivide/C2D)
 
+* 2021- IEEE PAMI - Wasserstein Adversarial Regularization for Learning With Label Noise. [[Paper]](https://arxiv.org/abs/1904.03936v3, https://ieeexplore.ieee.org/document/9477020) [[Code]] (https://github.com/bbdamodaran/WAR)
+*
 * 2021-AAAI - Robustness of Accuracy Metric and its Inspirations in Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2012.04193) [[Code]](https://github.com/chenpf1025/RobustnessAccuracy)
 
 * 2021-AAAI - Beyond Class-Conditional Assumption: A Primary Attempt to Combat Instance-Dependent Label Noise. [[Paper]](https://arxiv.org/abs/2012.05458) [[Code]](https://github.com/chenpf1025/IDN)
