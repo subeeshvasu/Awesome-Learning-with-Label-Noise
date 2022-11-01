@@ -475,8 +475,6 @@
 
 * 2021-Arxiv - A Framework using Contrastive Learning for Classification with Noisy Labels. [[Paper]](https://arxiv.org/abs/2104.09563)
 
-* 2021-Arxiv - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
-
 * 2021 - An Instance-Dependent Simulation Framework for Learning with Label Noise. [[Paper]](https://arxiv.org/pdf/2107.11413v4.pdf) [[Project Page]](https://github.com/deepmind/deepmind-research/tree/master/noisy_label)
 
 * 2021-ECML - Estimating the Electrical Power Output of Industrial Devices with End-to-End Time-Series Classification in the Presence of Label Noise. [[Paper]](https://arxiv.org/pdf/2105.00349.pdf) [[Code]](https://github.com/Castel44/SREA)
@@ -508,6 +506,8 @@
 * 2022-CVPR - Selective-Supervised Contrastive Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.04181) [[Code]](https://github.com/ShikunLi/Sel-CL)
 
 * 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [[Paper]](https://arxiv.org/abs/2111.11288) [[Code]](https://github.com/MrChenFeng/SSR_BMVC2022)
+
+2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
 ## Survey
 
