@@ -507,6 +507,8 @@
 
 * 2022-CVPR - Selective-Supervised Contrastive Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.04181) [[Code]](https://github.com/ShikunLi/Sel-CL)
 
+* 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [[Paper]](https://arxiv.org/abs/2111.11288) [[Code]](https://github.com/MrChenFeng/SSR_BMVC2022)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
