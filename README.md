@@ -511,6 +511,8 @@
 
 * 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
 
+* 2023-WACV - Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels. [[Paper]](https://arxiv.org/abs/2210.08826) [[Code]](https://github.com/btsmart/bootstrapping-label-noise)
+
 ## Survey
 
 * 2014-TNLS - Classification in the Presence of Label Noise: a Survey. [[Paper]](https://ieeexplore.ieee.org/document/6685834)
