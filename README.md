@@ -509,6 +509,8 @@
 
 * 2022-CVPR - Selective-Supervised Contrastive Learning with Noisy Labels. [[Paper]](https://arxiv.org/abs/2203.04181) [[Code]](https://github.com/ShikunLi/Sel-CL)
 
+* 2022-CVPR - Learning with Neighbor Consistency for Noisy Labels. [[https://arxiv.org/abs/2202.02200]]()
+
 * 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [[Paper]](https://arxiv.org/abs/2111.11288) [[Code]](https://github.com/MrChenFeng/SSR_BMVC2022)
 
 * 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
