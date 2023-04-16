@@ -249,7 +249,7 @@
 
 * 2019-NIPS - L_DMI: A Novel Information-theoretic Loss Function for Training Deep Nets Robust to Label Noise. [[Paper]](https://papers.nips.cc/paper/8853-l_dmi-a-novel-information-theoretic-loss-function-for-training-deep-nets-robust-to-label-noise) [[Code]](https://github.com/Newbeeer/L_DMI)
 
-* 2019-Arxiv - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]](https://openreview.net/forum?id=S1MQ6jCcK7)
+* 2019-Arxiv - ChoiceNet: Robust Learning by Revealing Output Correlations. [[Paper]]([https://openreview.net/forum?id=S1MQ6jCcK7](https://openaccess.thecvf.com/content_CVPR_2020/html/Choi_Task_Agnostic_Robust_Learning_on_Corrupt_Outputs_by_Correlation-Guided_Mixture_CVPR_2020_paper.html))
 
 * 2019-Arxiv - Robust Learning Under Label Noise With Iterative Noise-Filtering. [[Paper]](https://arxiv.org/abs/1906.00216)
 
@@ -308,6 +308,8 @@
 * 2020-CVPR - Global-Local GCN: Large-Scale Label Noise Cleansing for Face Recognition. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Global-Local_GCN_Large-Scale_Label_Noise_Cleansing_for_Face_Recognition_CVPR_2020_paper.html)
 
 * 2020-CVPR - Training Noise-Robust Deep Neural Networks via Meta-Learning. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Training_Noise-Robust_Deep_Neural_Networks_via_Meta-Learning_CVPR_2020_paper.pdf) [[Code]](https://github.com/ZhenWang-PhD/Training-Noise-Robust-Deep-Neural-Networks-via-Meta-Learning)
+
+* 2020-CVPR - Task Agnostic Robust Learning on Corrupt Outputs by Correlation-Guided Mixture Density Networks. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Choi_Task_Agnostic_Robust_Learning_on_Corrupt_Outputs_by_Correlation-Guided_Mixture_CVPR_2020_paper.html) [[code]](https://github.com/sjchoi86/choicenet)
 
 * 2020-ICML - Learning with Bounded Instance-and Label-dependent Label Noise. [[Paper]](https://arxiv.org/abs/1709.03768) [[Matlab Code]](https://github.com/JiachengCheng96/Learning-with-bounded-instance-and-label-dependent-label-noise)
 
