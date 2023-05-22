@@ -513,6 +513,8 @@
 
 * 2022-CVPR - Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) [[Code]](https://github.com/XLearning-SCU/2022-CVPR-DART)
 
+* 2022-ICML - From Noisy Prediction to True Label: Noisy Prediction Calibration via Generative Model. [[Paper]](https://proceedings.mlr.press/v162/bae22a/bae22a.pdf) [[Code]](https://github.com/BaeHeeSun/NPC)
+
 * 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [[Paper]](https://arxiv.org/abs/2111.11288) [[Code]](https://github.com/MrChenFeng/SSR_BMVC2022)
 
 * 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
