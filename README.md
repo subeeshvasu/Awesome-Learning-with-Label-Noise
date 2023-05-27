@@ -513,6 +513,8 @@
 
 * 2022-CVPR - Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) [[Code]](https://github.com/XLearning-SCU/2022-CVPR-DART)
 
+* 2022-NIPS - MVP-N: A Dataset and Benchmark for Real-World Multi-View Object Classification. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/819b8452be7d6af1351d4c4f9cbdbd9b-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/SMNUResearch/MVP-N)
+
 * 2022-BMVC - SSR: An Efficient and Robust Framework for Learning with Unknown Label Noise. [[Paper]](https://arxiv.org/abs/2111.11288) [[Code]](https://github.com/MrChenFeng/SSR_BMVC2022)
 
 * 2023-WACV - Adaptive Sample Selection for Robust Learning under Label Noise. [[Paper]](https://arxiv.org/abs/2106.15292) [[Code]](https://github.com/dbp1994/masters_thesis_codes/tree/main/BARE)
