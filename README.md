@@ -1,4 +1,7 @@
-# Learning-with-Label-Noise
+<div align="center">
+    <h1>Awesome Learning with Label Noise</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+</div>
 
     A curated list of resources for Learning with Noisy Labels
 
