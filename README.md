@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Awesome Learning with Noise Labels</h1>
+    <h1>Awesome Learning with Noisy Labels</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
 </div>
 
