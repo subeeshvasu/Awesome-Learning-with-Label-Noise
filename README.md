@@ -526,7 +526,13 @@
 
 * 2023-WACV - Bootstrapping the Relationship Between Images and Their Clean and Noisy Labels. [[Paper]](https://arxiv.org/abs/2210.08826) [[Code]](https://github.com/btsmart/bootstrapping-label-noise)
 
+* 2023-WACV - Instance-Dependent Noisy Label Learning via Graphical Modelling. [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Garg_Instance-Dependent_Noisy_Label_Learning_via_Graphical_Modelling_WACV_2023_paper.html) [[Code]](https://github.com/arpit2412/InstanceGM)
+
 * 2024-CVPR - SURE: SUrvey REcipes for building reliable and robust deep networks [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_SURE_SUrvey_REcipes_for_building_reliable_and_robust_deep_networks_CVPR_2024_paper.pdf) [[Code]](https://github.com/YutingLi0606/SURE)
+
+* 2024-ECCV - Instance-Dependent Noisy-Label Learning with Graphical Model Based Noise-Rate Estimation. [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00589.pdf) [[Code]](https://github.com/arpit2412/NoiseRateLearning)
+
+* 2025-IMAVIS - PASS: Peer-agreement based sample selection for training with instance dependent noisy labels. [[Paper]](https://arxiv.org/abs/2303.10802) [[Code]](https://github.com/arpit2412/PASS-NoisyLabel)
 
 ## Survey
 
